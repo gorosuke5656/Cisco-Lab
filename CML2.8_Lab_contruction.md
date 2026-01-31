@@ -20,17 +20,17 @@
 CMLにはシステム管理コンソールと管理画面の２つがあり、今回は以下のユーザ名/パスワードで設定しました<br>
   <img width="363" height="172" alt="image" src="https://github.com/user-attachments/assets/87fc4b85-2605-4a2f-b30d-0a0302a27135" />
 
-今回のインストール手順は以下の通りになります<br>
+### 今回のインストール手順は以下の通りになります<br>
 <img width="1386" height="662" alt="image" src="https://github.com/user-attachments/assets/6a2c6550-0486-4525-b56e-905cf8cae02e" />
 
-【必要なソフトウェアのダウンロード】<br>
+### 【必要なソフトウェアのダウンロード】<br>
 https://software.cisco.com/download/home/286193282/type/286326381/release/2.8.1<br>
 
 <img width="1395" height="661" alt="image" src="https://github.com/user-attachments/assets/7fd9dd43-a3dd-48a0-9cad-223f51de10a8" />
 
 <img width="1391" height="686" alt="image" src="https://github.com/user-attachments/assets/6b57004c-ea22-4c7d-8744-4ed44e345774" />
 
-【CMLの展開】　VMworkstation上で設定を実施します<br>
+### 【CMLの展開】　VMworkstation上で設定を実施します<br>
 <img width="1376" height="687" alt="image" src="https://github.com/user-attachments/assets/2a3b1a3c-6249-4f80-8699-6e92301a891f" />
 
 <img width="1390" height="666" alt="image" src="https://github.com/user-attachments/assets/5bc76b4d-5993-4838-8015-b79fda5c86d6" />
