@@ -1,9 +1,8 @@
 ### Cisco Modeling Lab(2.8)無償版の環境構築
-以下の順序で説明します<br>
+#### 以下の順序で説明します<br>
 <img width="677" height="523" alt="image" src="https://github.com/user-attachments/assets/b90325a7-0ccd-446e-9688-668e4a34e253" />
 
-【参考資料】<br>
-　Cisco Modeling Labs (CML)を使ってネットワークを学ぼう！（基礎編）配布用<br>　
+### 【参考資料】Cisco Modeling Labs (CML)を使ってネットワークを学ぼう！（基礎編）配布用<br>　
 　　　https://www.slideshare.net/slideshow/cisco-modeling-labs-cml-238387212/238387212<br>
 
 ## １ CML（Cisco Modeling lab）とは？
