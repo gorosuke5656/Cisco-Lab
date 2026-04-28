@@ -5,6 +5,10 @@
 ### 【参考資料】Cisco Modeling Labs (CML)を使ってネットワークを学ぼう！（基礎編）配布用<br>　
 　　　https://www.slideshare.net/slideshow/cisco-modeling-labs-cml-238387212/238387212<br>
 
+### 【参考資料】CML Free の導入方法（Windows）
+　　　https://note.com/sokada_itnet/n/n6a8fa1836968<br>
+
+   
 ## １ CML（Cisco Modeling lab）とは？
 <img width="1391" height="727" alt="image" src="https://github.com/user-attachments/assets/805ffd66-c766-434f-bb3b-f750168dbae2" />
 
