@@ -6,8 +6,6 @@
 
 <img width="1378" height="717" alt="image" src="https://github.com/user-attachments/assets/e244ad27-a0ec-4f2f-83e0-f7838046f250" />
 
-
-
 ### 2 　Basic-NW-labで取り上げるテーマ<br>
 　①【ルータネットワーク実習】<br>
 　　(1)　RIPv1/V2による経路情報の交換<br>
@@ -22,3 +20,5 @@
    （4)　Storm Control設定と確認<br>
 　　(6)　LAG設定と確認<br>
 　　(7)　ACL設定と確認<br>
+
+### 3 　各ノードへのアクセス<br>
