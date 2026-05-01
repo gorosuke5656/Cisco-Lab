@@ -31,6 +31,8 @@
 #### (1)-2 RIPv2による経路情報の交換<br>
 <img width="1338" height="704" alt="image" src="https://github.com/user-attachments/assets/ddcf094c-5622-4f1d-959b-2503171f18f9" />
 
+### 2 OSPFによる経路情報の交換<br>
+<img width="1344" height="703" alt="image" src="https://github.com/user-attachments/assets/beaa7fbd-7e05-45aa-bd08-e7ee155c2258" />
 
 
 
