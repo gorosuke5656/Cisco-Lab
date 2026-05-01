@@ -4,6 +4,8 @@
 図に示す構成となります<br>
 構成はルーター３台、スイッチ２台です<br>
 
+<img width="1378" height="717" alt="image" src="https://github.com/user-attachments/assets/e244ad27-a0ec-4f2f-83e0-f7838046f250" />
+
 
 
 ### 2 　Basic-NW-labで取り上げるテーマ<br>
