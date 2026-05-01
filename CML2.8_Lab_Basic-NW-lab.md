@@ -25,5 +25,10 @@
 
 ### 4　【ルーターネットワーク実習】<br>
 #### (1)　RIPv1/V2による経路情報の交換<br>
+##### (1)-1 RIPv1による経路情報の交換<br>
+<img width="1349" height="699" alt="image" src="https://github.com/user-attachments/assets/f086352e-42d3-4547-9912-a3b86ae4223e" />
+
+
+
 
 
