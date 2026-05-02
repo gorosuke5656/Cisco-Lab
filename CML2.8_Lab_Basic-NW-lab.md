@@ -51,9 +51,10 @@
 イ）
 
 #### 復号メトリックを使用した経路制御<br>
+##### 構成は以下のようになります<br>
 <img width="1592" height="776" alt="image" src="https://github.com/user-attachments/assets/f2e52af3-ddd6-4d6e-b63c-b9057c10dc94" />
 
-上記の構成で以下の内容を実施して確認します<br>
+##### 上記の構成で以下の内容を実施して確認します<br>
 <img width="1584" height="734" alt="image" src="https://github.com/user-attachments/assets/b4b9827c-5eb0-4c06-ae0d-e6a5c71ba8a9" />
 
 ア）R1、R2及びR3にEIGRPを設定します。<br>
@@ -86,4 +87,8 @@
 <img width="1386" height="678" alt="image" src="https://github.com/user-attachments/assets/d44056d2-d48f-48f1-95e4-badbeeca9565" />
 
 <img width="1388" height="665" alt="image" src="https://github.com/user-attachments/assets/bc4887e5-6e45-4d95-a14f-e61e130cef17" />
+
+### 5 HSRPによるデフォルトGW冗長化と確認　<br>
+#### 構成は以下のようになります
+<img width="1386" height="659" alt="image" src="https://github.com/user-attachments/assets/e1c1b188-34b1-4d67-a447-1edb121cb61b" />
 
