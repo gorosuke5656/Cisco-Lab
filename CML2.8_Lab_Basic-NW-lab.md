@@ -78,7 +78,12 @@
 
 <img width="1397" height="622" alt="image" src="https://github.com/user-attachments/assets/681e60f7-9df6-4be1-9c22-059365b689bb" />
    
+##### （参考）復号メトリックを使用した経路制御について<br>
+<img width="1393" height="681" alt="image" src="https://github.com/user-attachments/assets/832b88d7-f860-4958-800b-800532be5de8" />
 
+<img width="1386" height="681" alt="image" src="https://github.com/user-attachments/assets/c22c72c9-afcd-4f61-b64e-e11eebecdb96" />
 
+<img width="1386" height="678" alt="image" src="https://github.com/user-attachments/assets/d44056d2-d48f-48f1-95e4-badbeeca9565" />
 
+<img width="1388" height="665" alt="image" src="https://github.com/user-attachments/assets/bc4887e5-6e45-4d95-a14f-e61e130cef17" />
 
