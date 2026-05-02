@@ -7,7 +7,8 @@
 <img width="1385" height="706" alt="image" src="https://github.com/user-attachments/assets/d6eb29fb-801c-4241-86ad-e64340bf11a0" />
 
  (その２）<br>
-<img width="1386" height="708" alt="image" src="https://github.com/user-attachments/assets/b3c1f7a6-c0d8-4c60-8cb0-9ec4876a5622" />
+<img width="1389" height="704" alt="image" src="https://github.com/user-attachments/assets/69081536-5f8f-4fa6-aa3b-c2fa1588cd1b" />
+
 
  (その３）<br>
 <img width="1385" height="618" alt="image" src="https://github.com/user-attachments/assets/2e4cf69e-25f7-43ed-8c48-290d850328e8" />
