@@ -68,6 +68,12 @@
       show ip eigrp topology<br>
       show ip route eigrp<br>  
 
+<img width="1399" height="696" alt="image" src="https://github.com/user-attachments/assets/25317c59-ec65-42bb-8bc4-e831bc60e85d" />
+
+<img width="1384" height="689" alt="image" src="https://github.com/user-attachments/assets/0b395b74-b9a1-43f2-b905-685711bebdcf" />
+
+   
+
 
 
 
