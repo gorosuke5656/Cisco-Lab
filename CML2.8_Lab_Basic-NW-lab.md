@@ -1,10 +1,17 @@
 # CML2.8_Lab_Basic-NW-lab<br>
 
 ## １　Basic-NW-labの構成<br>
-図に示す構成となります<br>
+今回の演習は以下の３つの構成で実施します<br>
 構成はルーター３台、スイッチ２台です<br>
+（その１）<br>
+<img width="1385" height="706" alt="image" src="https://github.com/user-attachments/assets/d6eb29fb-801c-4241-86ad-e64340bf11a0" />
 
-<img width="1378" height="717" alt="image" src="https://github.com/user-attachments/assets/e244ad27-a0ec-4f2f-83e0-f7838046f250" />
+ (その２）<br>
+<img width="1386" height="708" alt="image" src="https://github.com/user-attachments/assets/b3c1f7a6-c0d8-4c60-8cb0-9ec4876a5622" />
+
+ (その３）<br>
+<img width="1385" height="618" alt="image" src="https://github.com/user-attachments/assets/2e4cf69e-25f7-43ed-8c48-290d850328e8" />
+
 
 ## 2 　Basic-NW-labで取り上げるテーマ<br>
 　①【ルータネットワーク実習】<br>
