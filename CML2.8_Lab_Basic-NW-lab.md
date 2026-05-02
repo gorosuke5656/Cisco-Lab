@@ -48,7 +48,8 @@
 設定するAS番号は100とします<br>
 ア） R1及びR２にEIGRPを設定します。
 イ）
-####　復号メトリックを使用した経路制御<br>
+
+#### 復号メトリックを使用した経路制御<br>
 <img width="1592" height="776" alt="image" src="https://github.com/user-attachments/assets/f2e52af3-ddd6-4d6e-b63c-b9057c10dc94" />
 
 上記の構成で以下の内容を実施して確認します<br>
