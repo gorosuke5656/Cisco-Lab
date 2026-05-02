@@ -10,7 +10,7 @@
 　①【ルータネットワーク実習】<br>
 　　(1)　RIPv1/V2による経路情報の交換<br>
 　　(2)　OSPFによる経路情報の交換<br>
-　　(3）  EIGRPによる経路情報の交換<br>
+　　(3） EIGRPによる経路情報の交換<br>
 　　(4)　RIP/OSPF併用による経路情報の交換<br>
 　　(5)　HSRPによるデフォルトGWの冗長化と確認<br>
 　②【SWネットワーク実習】<br>
@@ -34,6 +34,11 @@
 ### 2 OSPFによる経路情報の交換<br>
 <img width="1344" height="703" alt="image" src="https://github.com/user-attachments/assets/beaa7fbd-7e05-45aa-bd08-e7ee155c2258" />
 
+### 3 EIGRPによる経路情報の交換<br>
 
+
+
+設定するAS番号は100とします<br>
+(1) R1及びR２にEIGRPを設定します。
 
 
