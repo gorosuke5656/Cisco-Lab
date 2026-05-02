@@ -75,6 +75,7 @@
 ##### 復号メトリックを使用した経路制御における回線のバックアップ<br>
 <img width="1384" height="689" alt="image" src="https://github.com/user-attachments/assets/0b395b74-b9a1-43f2-b905-685711bebdcf" />
 
+<img width="1397" height="622" alt="image" src="https://github.com/user-attachments/assets/681e60f7-9df6-4be1-9c22-059365b689bb" />
    
 
 
