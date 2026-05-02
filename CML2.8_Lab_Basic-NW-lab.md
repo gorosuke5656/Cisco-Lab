@@ -35,10 +35,32 @@
 <img width="1344" height="703" alt="image" src="https://github.com/user-attachments/assets/beaa7fbd-7e05-45aa-bd08-e7ee155c2258" />
 
 ### 3 EIGRPによる経路情報の交換<br>
-
+<img width="1588" height="745" alt="image" src="https://github.com/user-attachments/assets/4cc2ebbd-5021-48b6-95f8-a4eddb1623fd" />
 
 
 設定するAS番号は100とします<br>
-(1) R1及びR２にEIGRPを設定します。
+ア） R1及びR２にEIGRPを設定します。
+イ）
+####　復号メトリックを使用した経路制御<br>
+<img width="1592" height="776" alt="image" src="https://github.com/user-attachments/assets/f2e52af3-ddd6-4d6e-b63c-b9057c10dc94" />
+
+上記の構成で以下の内容を実施して確認します<br>
+<img width="1584" height="734" alt="image" src="https://github.com/user-attachments/assets/b4b9827c-5eb0-4c06-ae0d-e6a5c71ba8a9" />
+
+ア）R1、R2及びR3にEIGRPを設定します。<br>
+
+イ）以下の条件で複合メトリック設定（delay）を実施します。<br>
+　　　　R1～R３～R2　　　→　プライマリ経路　各インタフェース間をdelay:10で設定<br>
+　　　　R1～R2　　　　　 →　セカンダリ経路　各インタフェース間をdelay:100で設定<br>
+
+ウ）SW1～SW2間にtracerouteを実施し、通信経路が、R1～R3～R2経由になることを確認してください<br>
+　　　
+エ）設定変更後、以下のコマンドで確認します<br>
+　　　show ip eigrp neigbor<br>
+      show ip eigrp interfaces<br>
+      show ip eigrp topology<br>
+      show ip route eigrp<br>  
+
+
 
 
