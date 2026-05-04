@@ -75,8 +75,11 @@
 <img width="1399" height="696" alt="image" src="https://github.com/user-attachments/assets/25317c59-ec65-42bb-8bc4-e831bc60e85d" />
 
 ##### 復号メトリックを使用した経路制御における回線のバックアップ<br>
-<img width="1384" height="689" alt="image" src="https://github.com/user-attachments/assets/0b395b74-b9a1-43f2-b905-685711bebdcf" />
 
+###### プライマリ経路に障害を発生させ、バックアップ経路に切り替えをします<br>
+<img width="1344" height="618" alt="image" src="https://github.com/user-attachments/assets/0db3dfc4-2df3-41d6-9773-895feb0d8f7b" />
+
+###### 実施手順<br>
 <img width="1397" height="622" alt="image" src="https://github.com/user-attachments/assets/681e60f7-9df6-4be1-9c22-059365b689bb" />
    
 ##### （参考）復号メトリックを使用した経路制御について<br>
