@@ -93,3 +93,20 @@
 <img width="1386" height="659" alt="image" src="https://github.com/user-attachments/assets/e1c1b188-34b1-4d67-a447-1edb121cb61b" />
 
 <img width="1381" height="643" alt="image" src="https://github.com/user-attachments/assets/885a02ee-39c3-49c8-af77-25824873aedc" />
+
+
+
+## 4　【SWネットワーク実習】<br>
+### (3)　STPの構成及び確認<br>
+#### 以下の構成でSTP設定及び確認を実施します
+<img width="1183" height="518" alt="image" src="https://github.com/user-attachments/assets/8beb6f55-289d-47cb-a5aa-f9b21f983121" />
+
+##### STP構成の確認
+<img width="1183" height="579" alt="image" src="https://github.com/user-attachments/assets/92a0e8b9-cdd5-4bb0-90dc-3cc39dad6d6b" />
+
+今回は上記のように確認できました！<br>
+
+##### 参考：show spanning-treeの表示について<br>
+<img width="1190" height="520" alt="image" src="https://github.com/user-attachments/assets/6beaea85-f743-4ff7-8c41-08aea47c16a3" />
+
+###### CiscoのSWはPVST+（Per-VLAN Spanning Tree）が動作するためこのようになります
