@@ -42,7 +42,9 @@
 #### (3) Listコマンドでノード一覧を表示<br> 
 <img width="1226" height="611" alt="image" src="https://github.com/user-attachments/assets/cf9d21bc-839f-4d15-8ea9-b15c8b556e53" />
 
-#### (3) Listコマンドでノード一覧を表示<br> 
+#### (4) OPENコマンドで該当装置に接続<br>
+<img width="1168" height="538" alt="image" src="https://github.com/user-attachments/assets/3a4aa78d-ca67-41f4-acc6-1c066c705df6" />
+
 
 
 ## 4　【ルーターネットワーク実習】<br>
