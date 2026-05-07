@@ -79,15 +79,15 @@
 ##### 設定例<br>
 <img width="1379" height="687" alt="image" src="https://github.com/user-attachments/assets/273669c1-6f8c-483c-ad08-8123bcb14f5c" />
 
-#### オプション課題<br>
+#### 【オプション課題】<br>
 <img width="1382" height="625" alt="image" src="https://github.com/user-attachments/assets/d3d27aab-7051-435c-812d-9e4aa3828e09" />
 
-##### オプション課題実施手順<br>
+##### 【オプション課題実施手順】<br>
 <img width="1382" height="629" alt="image" src="https://github.com/user-attachments/assets/f0d9244b-30cd-46c9-ba1a-fbc497fd84b3" />
 
 
 
-### 3 EIGRPによる経路情報の交換<br>
+### ３ EIGRPによる経路情報の交換<br>
 <img width="1588" height="745" alt="image" src="https://github.com/user-attachments/assets/4cc2ebbd-5021-48b6-95f8-a4eddb1623fd" />
 
 
