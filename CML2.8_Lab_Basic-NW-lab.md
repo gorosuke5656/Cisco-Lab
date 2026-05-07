@@ -56,7 +56,36 @@
 <img width="1338" height="704" alt="image" src="https://github.com/user-attachments/assets/ddcf094c-5622-4f1d-959b-2503171f18f9" />
 
 ### 2 OSPFによる経路情報の交換<br>
-<img width="1344" height="703" alt="image" src="https://github.com/user-attachments/assets/beaa7fbd-7e05-45aa-bd08-e7ee155c2258" />
+#### シングルエリア構成と確認（構成）<br>
+<img width="1386" height="678" alt="image" src="https://github.com/user-attachments/assets/e78c077c-3abc-4af9-a7aa-8521190a7a87" />
+
+#### OSPF設定その１<br>
+<img width="1386" height="598" alt="image" src="https://github.com/user-attachments/assets/a28efaa8-d112-4b83-a9ff-e6de70f5d690" />
+
+<img width="1384" height="684" alt="image" src="https://github.com/user-attachments/assets/b6bf13c4-df28-4eac-bc7b-7430044c6fcb" />
+
+##### OSPF確認（show ip ospf ne/show ip ospf database)<br>
+<img width="1394" height="688" alt="image" src="https://github.com/user-attachments/assets/48dda8a0-46a4-4368-8bfe-ab8d701621da" />
+
+##### OSPF確認（show ip protocols)<br>
+<img width="1380" height="656" alt="image" src="https://github.com/user-attachments/assets/c33bef9f-2977-4d60-b9d3-882446f0ba99" />
+
+##### OSPF確認（show ip route)<br>
+<img width="1387" height="647" alt="image" src="https://github.com/user-attachments/assets/1761b1df-3815-4a5f-8d58-9008e75c9342" />
+
+#### OSPF設定その２<br>
+<img width="1370" height="684" alt="image" src="https://github.com/user-attachments/assets/ad2e0b88-7f4b-44ef-96f2-0ae202cb01d7" />
+
+##### 設定例<br>
+<img width="1379" height="687" alt="image" src="https://github.com/user-attachments/assets/273669c1-6f8c-483c-ad08-8123bcb14f5c" />
+
+#### オプション課題<br>
+<img width="1382" height="625" alt="image" src="https://github.com/user-attachments/assets/d3d27aab-7051-435c-812d-9e4aa3828e09" />
+
+##### オプション課題実施手順<br>
+<img width="1382" height="629" alt="image" src="https://github.com/user-attachments/assets/f0d9244b-30cd-46c9-ba1a-fbc497fd84b3" />
+
+
 
 ### 3 EIGRPによる経路情報の交換<br>
 <img width="1588" height="745" alt="image" src="https://github.com/user-attachments/assets/4cc2ebbd-5021-48b6-95f8-a4eddb1623fd" />
