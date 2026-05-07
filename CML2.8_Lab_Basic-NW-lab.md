@@ -102,19 +102,6 @@
 ##### 上記の構成で以下の内容を実施して確認します<br>
 <img width="1584" height="734" alt="image" src="https://github.com/user-attachments/assets/b4b9827c-5eb0-4c06-ae0d-e6a5c71ba8a9" />
 
-ア）R1、R2及びR3にEIGRPを設定します。<br>
-
-イ）以下の条件で複合メトリック設定（delay）を実施します。<br>
-　　　　R1～R３～R2　　　→　プライマリ経路　各インタフェース間をdelay:10で設定<br>
-　　　　R1～R2　　　　　 →　セカンダリ経路　各インタフェース間をdelay:100で設定<br>
-
-ウ）SW1～SW2間にtracerouteを実施し、通信経路が、R1～R3～R2経由になることを確認してください<br>
-　　　
-エ）設定変更後、以下のコマンドで確認します<br>
-　　　show ip eigrp neigbor<br>
-      show ip eigrp interfaces<br>
-      show ip eigrp topology<br>
-      show ip route eigrp<br>  
 
 ###### show ip eigrp topolocyの情報は以下のようになります<br>
 <img width="1399" height="696" alt="image" src="https://github.com/user-attachments/assets/25317c59-ec65-42bb-8bc4-e831bc60e85d" />
