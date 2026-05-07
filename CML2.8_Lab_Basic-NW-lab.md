@@ -102,13 +102,21 @@
 ##### 上記の構成で以下の内容を実施して確認します<br>
 <img width="1584" height="734" alt="image" src="https://github.com/user-attachments/assets/b4b9827c-5eb0-4c06-ae0d-e6a5c71ba8a9" />
 
+##### EIGRP設定後の確認（ネイバー及び対象インタフェース設定）<br>
+<img width="1383" height="598" alt="image" src="https://github.com/user-attachments/assets/7443a471-da39-4e52-8cc0-7301641d38fb" />
 
-###### show ip eigrp topolocyの情報は以下のようになります<br>
+##### EIGRP設定後の確認（EIGRPトポロジー情報の確認）<br>
 <img width="1399" height="696" alt="image" src="https://github.com/user-attachments/assets/25317c59-ec65-42bb-8bc4-e831bc60e85d" />
+
+##### EIGRP設定後の確認（ルーティングテーブルの確認）<br>
+<img width="1384" height="655" alt="image" src="https://github.com/user-attachments/assets/6b397f1f-6844-449d-b2ce-e19fff49f0ee" />
+
+##### EIGRP設定後の確認（SW１→SW２へのPING及びtraceroute結果）<br>
+<img width="1376" height="586" alt="image" src="https://github.com/user-attachments/assets/e61c3f59-fbca-4ccf-a4ac-ee5a1cbfed23" />
 
 ##### 復号メトリックを使用した経路制御における回線のバックアップ<br>
 
-###### プライマリ経路に障害を発生させ、バックアップ経路に切り替えをします<br>
+###### （今回の構成）プライマリ経路に障害を発生させ、バックアップ経路に切り替えをします<br>
 <img width="1344" height="618" alt="image" src="https://github.com/user-attachments/assets/0db3dfc4-2df3-41d6-9773-895feb0d8f7b" />
 
 ###### 実施手順<br>
