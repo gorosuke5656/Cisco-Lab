@@ -117,11 +117,21 @@
 ##### 復号メトリックを使用した経路制御における回線のバックアップ<br>
 
 ###### （今回の構成）プライマリ経路に障害を発生させ、バックアップ経路に切り替えをします<br>
-<img width="1344" height="618" alt="image" src="https://github.com/user-attachments/assets/0db3dfc4-2df3-41d6-9773-895feb0d8f7b" />
-
+<img width="1390" height="623" alt="image" src="https://github.com/user-attachments/assets/f4799ddf-a30e-49b2-ad84-bce285c87b8b" />
 ###### 実施手順<br>
 <img width="1397" height="622" alt="image" src="https://github.com/user-attachments/assets/681e60f7-9df6-4be1-9c22-059365b689bb" />
-   
+###### R3のインタフェースをshutdown<br>
+<img width="1380" height="424" alt="image" src="https://github.com/user-attachments/assets/8970e450-0d05-480b-9a63-66f9aff3e807" />
+###### R1におけるEIGRPネイバー状態<br>
+<img width="1372" height="285" alt="image" src="https://github.com/user-attachments/assets/c03c3a0b-f0ea-4393-b3f2-0ca5658d5eff" />
+###### R1におけるトポロジテーブル<br>
+<img width="1374" height="582" alt="image" src="https://github.com/user-attachments/assets/7c29fb49-feba-466e-9083-520297157ad1" />
+###### R1における経路情報<br>
+<img width="1388" height="653" alt="image" src="https://github.com/user-attachments/assets/f7e81c37-7a45-48de-a030-cb7d49fcf76f" />
+###### SW1からのPING及びTraceroute<br>
+ <img width="1376" height="596" alt="image" src="https://github.com/user-attachments/assets/8a70fc54-a080-465e-b204-c3a5b7dd137f" />
+
+  
 ##### （参考）復号メトリックを使用した経路制御について<br>
 <img width="1393" height="681" alt="image" src="https://github.com/user-attachments/assets/832b88d7-f860-4958-800b-800532be5de8" />
 
