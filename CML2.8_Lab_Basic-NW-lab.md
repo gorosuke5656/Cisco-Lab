@@ -47,12 +47,12 @@
 
 
 
-## 4　【ルーターネットワーク実習】<br>
-### (1)　RIPv1/V2による経路情報の交換<br>
-#### (1)-1 RIPv1による経路情報の交換<br>
+# 4　【ルーターネットワーク実習】<br>
+## (1)　RIPv1/V2による経路情報の交換<br>
+### (1)-1 RIPv1による経路情報の交換<br>
 <img width="1350" height="701" alt="image" src="https://github.com/user-attachments/assets/68ecbe5e-06db-40cf-ae64-76884c70468f" />
 
-#### (1)-2 RIPv2による経路情報の交換<br>
+### (1)-2 RIPv2による経路情報の交換<br>
 <img width="1338" height="704" alt="image" src="https://github.com/user-attachments/assets/ddcf094c-5622-4f1d-959b-2503171f18f9" />
 
 ### 2 OSPFによる経路情報の交換<br>
@@ -182,17 +182,30 @@
 
 
 
-## 4　【SWネットワーク実習】<br>
-### (3)　STPの構成及び確認<br>
-#### 以下の構成でSTP設定及び確認を実施します
+# 4　【SWネットワーク実習】<br>
+## (3)　STPの構成及び確認<br>
+### 以下の構成でSTP設定及び確認を実施します
 <img width="1183" height="518" alt="image" src="https://github.com/user-attachments/assets/8beb6f55-289d-47cb-a5aa-f9b21f983121" />
 
-##### STP構成の確認
+#### STP構成の確認
 <img width="1183" height="579" alt="image" src="https://github.com/user-attachments/assets/92a0e8b9-cdd5-4bb0-90dc-3cc39dad6d6b" />
 
 今回は上記のように確認できました！<br>
 
-##### 参考：show spanning-treeの表示について<br>
+#### 参考：show spanning-treeの表示について<br>
 <img width="1190" height="520" alt="image" src="https://github.com/user-attachments/assets/6beaea85-f743-4ff7-8c41-08aea47c16a3" />
 
-###### CiscoのSWはPVST+（Per-VLAN Spanning Tree）が動作するためこのようになります
+##### CiscoのSWはPVST+（Per-VLAN Spanning Tree）が動作するためこのようになります
+<img width="1333" height="663" alt="image" src="https://github.com/user-attachments/assets/412c20c0-26a4-498e-917d-816d99eb9c66" />
+
+##### ブロッキングポートを変更して見ましょう!<br>
+<img width="1329" height="572" alt="image" src="https://github.com/user-attachments/assets/aa977b52-0fb5-41b3-a0e4-92852e3ef0ff" />
+<img width="1333" height="604" alt="image" src="https://github.com/user-attachments/assets/3d62d6c4-a159-42fb-b4b0-bd33beca39f5" />
+<img width="1327" height="633" alt="image" src="https://github.com/user-attachments/assets/15b6a974-427f-440d-af36-5a2b8500e2c9" />
+
+##### SW2のパスコストを変更してブロッキングポートを変更
+<img width="1341" height="482" alt="image" src="https://github.com/user-attachments/assets/36ec91fa-06be-47a5-8c23-2e7fa647d0c9" />
+
+##### ブロッキングポートが変更されました～<br>
+<img width="1326" height="637" alt="image" src="https://github.com/user-attachments/assets/736ef4d5-1f34-4f43-9f8e-7bd8173bd3f2" />
+
