@@ -115,6 +115,8 @@
 ###### （今回の構成）プライマリ経路に障害を発生させ、バックアップ経路に切り替えをします<br>
 <img width="1390" height="623" alt="image" src="https://github.com/user-attachments/assets/f4799ddf-a30e-49b2-ad84-bce285c87b8b" />
 ###### 実施手順<br>
+
+###### 実施手順<br>
 <img width="1397" height="622" alt="image" src="https://github.com/user-attachments/assets/681e60f7-9df6-4be1-9c22-059365b689bb" />
 ##### R3のインタフェースをshutdown<br>
 <img width="1380" height="424" alt="image" src="https://github.com/user-attachments/assets/8970e450-0d05-480b-9a63-66f9aff3e807" />
