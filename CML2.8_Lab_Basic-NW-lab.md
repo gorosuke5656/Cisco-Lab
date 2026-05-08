@@ -103,8 +103,6 @@
 ##### MTU値変更（MTU:1280 → MTU:1500）/OSPFネイバーを確認<br>
 <img width="1381" height="522" alt="image" src="https://github.com/user-attachments/assets/2d35c4c0-85f9-430b-848e-3dba16fc8c52" />
 
-
-
 ### ３ EIGRPによる経路情報の交換<br>
 <img width="1588" height="745" alt="image" src="https://github.com/user-attachments/assets/4cc2ebbd-5021-48b6-95f8-a4eddb1623fd" />
 
@@ -169,6 +167,12 @@
 <img width="1386" height="678" alt="image" src="https://github.com/user-attachments/assets/d44056d2-d48f-48f1-95e4-badbeeca9565" />
 
 <img width="1388" height="665" alt="image" src="https://github.com/user-attachments/assets/bc4887e5-6e45-4d95-a14f-e61e130cef17" />
+
+##### （オプション課題）Stack in Activeが発生するネットワーク構成と対策<br>
+<img width="1333" height="588" alt="image" src="https://github.com/user-attachments/assets/f18a79ef-84be-478e-af23-554c71c0783b" />
+
+
+
 
 ### 5 HSRPによるデフォルトGW冗長化と確認　<br>
 #### 構成は以下のようになります
