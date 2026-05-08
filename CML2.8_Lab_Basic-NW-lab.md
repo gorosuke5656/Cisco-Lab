@@ -85,6 +85,24 @@
 ##### 【オプション課題実施手順】<br>
 <img width="1382" height="629" alt="image" src="https://github.com/user-attachments/assets/f0d9244b-30cd-46c9-ba1a-fbc497fd84b3" />
 
+##### 事前確認　ア）OSPFインタフェース確認　/　イ）　OSPFネイバー確認<br>
+<img width="1374" height="564" alt="image" src="https://github.com/user-attachments/assets/4b10cc77-582c-4008-a86c-787587e04140" />
+
+##### 事前確認　ウ）  MTU値確認<br>
+<img width="1354" height="571" alt="image" src="https://github.com/user-attachments/assets/882b52ac-f312-4d1d-85b0-e4c473c635e5" />
+
+##### debugコマンド実行(debug ip ospf adj)/MTU値変更（MTU:1500 → MTU:1280）/OSPFプロセスをクリア<br>
+<img width="1359" height="517" alt="image" src="https://github.com/user-attachments/assets/57b571ff-7b8a-4745-9814-578d14905399" />
+
+##### debugコマンドを確認（debug ip ospf adjログを抜粋）<br>
+<img width="1376" height="593" alt="image" src="https://github.com/user-attachments/assets/84e701b9-a599-4fd9-a1b2-6c455aa06b1c" />
+
+##### debugコマンドを停止（undebug all)/OSPFネイバーを確認<br>
+<img width="1378" height="399" alt="image" src="https://github.com/user-attachments/assets/205cde1e-730b-4664-936a-d36cd35982d7" />
+
+##### MTU値変更（MTU:1280 → MTU:1500）/OSPFネイバーを確認<br>
+<img width="1381" height="522" alt="image" src="https://github.com/user-attachments/assets/2d35c4c0-85f9-430b-848e-3dba16fc8c52" />
+
 
 
 ### ３ EIGRPによる経路情報の交換<br>
