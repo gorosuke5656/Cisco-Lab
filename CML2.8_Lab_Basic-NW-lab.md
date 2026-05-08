@@ -113,15 +113,16 @@
 
 <img width="1380" height="677" alt="image" src="https://github.com/user-attachments/assets/bfd5ac0a-c7db-459a-9b41-1e4861af12da" />
 
-
-
-
 #### 復号メトリックを使用した経路制御<br>
 ##### 構成は以下のようになります<br>
 <img width="1592" height="776" alt="image" src="https://github.com/user-attachments/assets/f2e52af3-ddd6-4d6e-b63c-b9057c10dc94" />
 
 ##### 上記の構成で以下の内容を実施して確認します<br>
 <img width="1584" height="734" alt="image" src="https://github.com/user-attachments/assets/b4b9827c-5eb0-4c06-ae0d-e6a5c71ba8a9" />
+
+##### R1及びR2におけるインタフェースのdelay設定<br>
+<img width="1321" height="491" alt="image" src="https://github.com/user-attachments/assets/6292008a-e98c-47ed-8159-3d5c38f7a404" />
+
 
 ##### EIGRP設定後の確認（ネイバー及び対象インタフェース設定）<br>
 <img width="1383" height="598" alt="image" src="https://github.com/user-attachments/assets/7443a471-da39-4e52-8cc0-7301641d38fb" />
