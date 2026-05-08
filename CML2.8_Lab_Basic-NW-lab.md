@@ -194,7 +194,23 @@
 
 # 4　【SWネットワーク実習】<br>
 ## (1）CDP/LLDPによる隣接関係の確認<br>
+### CDP/LLDPを使用して対向のSWの情報を確認してみましょう！<br>
+<img width="1392" height="674" alt="image" src="https://github.com/user-attachments/assets/45ef4ade-6e7c-4eaf-a7ca-d5602eb02772" />
+
+### (1)-1 CDPによる隣接関係の確認<br>
+<img width="1373" height="619" alt="image" src="https://github.com/user-attachments/assets/fc5a97c7-2520-4c7a-9543-f3979d3b49ea" />
+
+<img width="1375" height="654" alt="image" src="https://github.com/user-attachments/assets/e44bdc3b-2027-4b46-b4f9-0e2cf065aeda" />
+
+### (1)-2 LLDPによる隣接関係の確認<br>
+<img width="1383" height="632" alt="image" src="https://github.com/user-attachments/assets/39518d90-27cc-4399-8270-9d5db987d7f4" />
+
+<img width="1387" height="616" alt="image" src="https://github.com/user-attachments/assets/3aaaccc7-c6e9-4a7b-ae33-7112160b0253" />
+
+<img width="1362" height="667" alt="image" src="https://github.com/user-attachments/assets/4da82ea8-6294-479f-84e9-e402414c47e1" />
+
 ## (2) VLANの構成及び確認<br>
+
 ## (3) STPの構成及び確認<br>
 ### 以下の構成でSTP設定及び確認を実施します
 <img width="1183" height="518" alt="image" src="https://github.com/user-attachments/assets/8beb6f55-289d-47cb-a5aa-f9b21f983121" />
