@@ -79,6 +79,13 @@
 ##### 設定例<br>
 <img width="1379" height="687" alt="image" src="https://github.com/user-attachments/assets/273669c1-6f8c-483c-ad08-8123bcb14f5c" />
 
+#### マルチエリアOSPF構成と確認（構成）<br>
+
+
+#### マルチエリアOSPF&再配送構成と確認（構成）<br>
+
+
+
 #### 【オプション課題】<br>
 <img width="1382" height="625" alt="image" src="https://github.com/user-attachments/assets/d3d27aab-7051-435c-812d-9e4aa3828e09" />
 
