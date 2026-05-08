@@ -80,9 +80,11 @@
 <img width="1379" height="687" alt="image" src="https://github.com/user-attachments/assets/273669c1-6f8c-483c-ad08-8123bcb14f5c" />
 
 #### マルチエリアOSPF構成と確認（構成）<br>
+<img width="1372" height="682" alt="image" src="https://github.com/user-attachments/assets/157f98b2-a055-4284-a63b-26583680091c" />
 
 
 #### マルチエリアOSPF&再配送構成と確認（構成）<br>
+<img width="1384" height="683" alt="image" src="https://github.com/user-attachments/assets/97044908-90c7-4eda-8521-70d8a8068999" />
 
 
 
