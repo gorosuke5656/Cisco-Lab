@@ -14,46 +14,47 @@
 <img width="1385" height="618" alt="image" src="https://github.com/user-attachments/assets/2e4cf69e-25f7-43ed-8c48-290d850328e8" />
 
 
-## 2 　Basic-NW-labで取り上げるテーマ<br>
-　①【ルータネットワーク実習】<br>
-　　(1)　RIPv1/V2による経路情報の交換<br>
-　　(2)　OSPFによる経路情報の交換<br>
-　　(3） EIGRPによる経路情報の交換<br>
-　　(4)　複数のRoutingプロトコルによる経路情報の交換<br>
-　　(5)　HSRPによるデフォルトGWの冗長化と確認<br>
-　②【SWネットワーク実習】<br>
-　　(1） CDP/LLDPによる隣接関係の確認<br>
-　　(2)　VLANの構成及び確認<br>
-　　(3)　STPの構成および確認<br>
-   （4)　Storm Control設定と確認<br>
-　　(6)　LAG設定と確認<br>
-　　(7)　ACL設定と確認<br>
+# 2 　Basic-NW-labで取り上げるテーマ<br>
+# 【ルータネットワーク実習】<br>
+## (1)　RIPv1/V2による経路情報の交換<br>
+## (2)　OSPFによる経路情報の交換<br>
+## (3） EIGRPによる経路情報の交換<br>
+## (4)　複数のRoutingプロトコルによる経路情報の交換<br>
+## (5)　HSRPによるデフォルトGWの冗長化と確認<br>
+# 【SWネットワーク実習】<br>
+## (1） CDP/LLDPによる隣接関係の確認<br>
+## (2)　VLANの構成及び確認<br>
+## (3)　STPの構成および確認<br>
+## (4)  Storm Control設定と確認<br>
+## (5)　LAG設定と確認<br>
+## (6)　ACL設定と確認<br>
 
-## 3 　各ノードへのアクセス<br>
-### CML内臓コンソールサーバ機能を使用してSSH経由で接続→CML内のデバイスにアクセス<br>
+# 3 　各ノードへのアクセス<br>
+## CML内臓コンソールサーバ機能を使用してSSH経由で接続→CML内のデバイスにアクセス<br>
 <img width="1385" height="686" alt="image" src="https://github.com/user-attachments/assets/d5afc0de-5d46-4b76-b437-85ee48aa4852" />
 
-#### (1) SSHクライアント（Tereterm等）でコンソールサーバーに接続<br> 
+### (1) SSHクライアント（Tereterm等）でコンソールサーバーに接続<br> 
 <img width="911" height="610" alt="image" src="https://github.com/user-attachments/assets/cf9bcd3a-661c-464c-9fc7-f91abb12c9d0" />
 
-#### (2) コンソールサーバー画面<br> 
+### (2) コンソールサーバー画面<br> 
 <img width="1128" height="600" alt="image" src="https://github.com/user-attachments/assets/0ddfd5db-30f5-48f8-a613-dff157c901f0" />
 
-#### (3) Listコマンドでノード一覧を表示<br> 
+### (3) Listコマンドでノード一覧を表示<br> 
 <img width="1226" height="611" alt="image" src="https://github.com/user-attachments/assets/cf9d21bc-839f-4d15-8ea9-b15c8b556e53" />
 
-#### (4) OPENコマンドで該当装置に接続<br>
+### (4) OPENコマンドで該当装置に接続<br>
 <img width="1168" height="538" alt="image" src="https://github.com/user-attachments/assets/3a4aa78d-ca67-41f4-acc6-1c066c705df6" />
 
 
 
 # 4　【ルーターネットワーク実習】<br>
-## (1)　RIPv1/V2による経路情報の交換<br>
+## (1)　RIPv1/v2による経路情報の交換<br>
 ### (1)-1 RIPv1による経路情報の交換<br>
 <img width="1350" height="701" alt="image" src="https://github.com/user-attachments/assets/68ecbe5e-06db-40cf-ae64-76884c70468f" />
 
 ### (1)-2 RIPv2による経路情報の交換<br>
 <img width="1338" height="704" alt="image" src="https://github.com/user-attachments/assets/ddcf094c-5622-4f1d-959b-2503171f18f9" />
+
 
 ### 2 OSPFによる経路情報の交換<br>
 #### シングルエリア構成と確認（構成）<br>
@@ -88,7 +89,7 @@
 
 
 
-#### 【オプション課題】<br>
+#### 【オプション課題(MTU値の違いによるOSPFネイバー未確立の確認】<br>
 <img width="1382" height="625" alt="image" src="https://github.com/user-attachments/assets/d3d27aab-7051-435c-812d-9e4aa3828e09" />
 
 ##### 【オプション課題実施手順】<br>
@@ -120,7 +121,7 @@
 
 <img width="1380" height="677" alt="image" src="https://github.com/user-attachments/assets/bfd5ac0a-c7db-459a-9b41-1e4861af12da" />
 
-#### 復号メトリックを使用した経路制御<br>
+#### 複合メトリックを使用した経路制御<br>
 ##### 構成は以下のようになります<br>
 <img width="1592" height="776" alt="image" src="https://github.com/user-attachments/assets/f2e52af3-ddd6-4d6e-b63c-b9057c10dc94" />
 
@@ -143,7 +144,7 @@
 ##### EIGRP設定後の確認（SW１→SW２へのPING及びtraceroute結果）<br>
 <img width="1376" height="586" alt="image" src="https://github.com/user-attachments/assets/e61c3f59-fbca-4ccf-a4ac-ee5a1cbfed23" />
 
-##### 復号メトリックを使用した経路制御における回線のバックアップ<br>
+##### 複合メトリックを使用した経路制御における回線のバックアップ<br>
 
 ###### （今回の構成）プライマリ経路に障害を発生させ、バックアップ経路に切り替えをします<br>
 <img width="1390" height="623" alt="image" src="https://github.com/user-attachments/assets/f4799ddf-a30e-49b2-ad84-bce285c87b8b" />
@@ -168,7 +169,7 @@
  <img width="1376" height="596" alt="image" src="https://github.com/user-attachments/assets/8a70fc54-a080-465e-b204-c3a5b7dd137f" />
 
   
-##### （参考）復号メトリックを使用した経路制御について<br>
+##### （参考）複合メトリックを使用した経路制御について<br>
 <img width="1393" height="681" alt="image" src="https://github.com/user-attachments/assets/832b88d7-f860-4958-800b-800532be5de8" />
 
 <img width="1386" height="681" alt="image" src="https://github.com/user-attachments/assets/c22c72c9-afcd-4f61-b64e-e11eebecdb96" />
@@ -177,7 +178,7 @@
 
 <img width="1388" height="665" alt="image" src="https://github.com/user-attachments/assets/bc4887e5-6e45-4d95-a14f-e61e130cef17" />
 
-##### （オプション課題）Stack in Activeが発生するネットワーク構成と対策<br>
+##### 【オプション課題：Stack in Activeが発生するネットワーク構成と対策】<br>
 <img width="1333" height="588" alt="image" src="https://github.com/user-attachments/assets/f18a79ef-84be-478e-af23-554c71c0783b" />
 
 
@@ -192,7 +193,9 @@
 
 
 # 4　【SWネットワーク実習】<br>
-## (3)　STPの構成及び確認<br>
+## (1）CDP/LLDPによる隣接関係の確認<br>
+## (2) VLANの構成及び確認<br>
+## (3) STPの構成及び確認<br>
 ### 以下の構成でSTP設定及び確認を実施します
 <img width="1183" height="518" alt="image" src="https://github.com/user-attachments/assets/8beb6f55-289d-47cb-a5aa-f9b21f983121" />
 
@@ -204,10 +207,10 @@
 #### 参考：show spanning-treeの表示について<br>
 <img width="1190" height="520" alt="image" src="https://github.com/user-attachments/assets/6beaea85-f743-4ff7-8c41-08aea47c16a3" />
 
-##### CiscoのSWはPVST+（Per-VLAN Spanning Tree）が動作するためこのようになります
+##### 参考 CiscoのSWはPVST+（Per-VLAN Spanning Tree）が動作するためこのようになります
 <img width="1333" height="663" alt="image" src="https://github.com/user-attachments/assets/412c20c0-26a4-498e-917d-816d99eb9c66" />
 
-##### ブロッキングポートを変更して見ましょう!<br>
+##### （実習１）ブロッキングポートを変更して見ましょう!<br>
 <img width="1329" height="572" alt="image" src="https://github.com/user-attachments/assets/aa977b52-0fb5-41b3-a0e4-92852e3ef0ff" />
 <img width="1333" height="604" alt="image" src="https://github.com/user-attachments/assets/3d62d6c4-a159-42fb-b4b0-bd33beca39f5" />
 <img width="1327" height="633" alt="image" src="https://github.com/user-attachments/assets/15b6a974-427f-440d-af36-5a2b8500e2c9" />
@@ -217,4 +220,11 @@
 
 ##### ブロッキングポートが変更されました～<br>
 <img width="1326" height="637" alt="image" src="https://github.com/user-attachments/assets/736ef4d5-1f34-4f43-9f8e-7bd8173bd3f2" />
+
+##### （実習２）ルートブリッジを変更して見ましょう!<br>
+
+## (4)　Storm Control設定と確認<br>
+## (5)　LAG設定と確認<br>
+## (6)　ACL設定と確認<br>
+
 
