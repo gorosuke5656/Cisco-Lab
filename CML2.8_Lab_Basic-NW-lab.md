@@ -109,9 +109,9 @@
 <img width="1588" height="745" alt="image" src="https://github.com/user-attachments/assets/4cc2ebbd-5021-48b6-95f8-a4eddb1623fd" />
 
 ##### EIGRPの設定<br>
-<img width="1383" height="669" alt="image" src="https://github.com/user-attachments/assets/83aa254d-67fe-4dd9-a81e-b3f58ffafcd0" />
+<img width="1377" height="673" alt="image" src="https://github.com/user-attachments/assets/96332535-10cc-4f2b-8e9c-add5e6704732" />
 
-<img width="1411" height="668" alt="image" src="https://github.com/user-attachments/assets/ab86a5e0-e13e-4821-9add-61a37a60e3d3" />
+<img width="1380" height="677" alt="image" src="https://github.com/user-attachments/assets/bfd5ac0a-c7db-459a-9b41-1e4861af12da" />
 
 
 
