@@ -83,9 +83,41 @@
 #### マルチエリアOSPF構成と確認（構成）<br>
 <img width="1372" height="682" alt="image" src="https://github.com/user-attachments/assets/157f98b2-a055-4284-a63b-26583680091c" />
 
+##### 〇 経路情報の確認（show ip route ospf)<br>
+<img width="1385" height="627" alt="image" src="https://github.com/user-attachments/assets/fb22e3e9-4c1e-483e-aefd-9cd183566f92" />
+
+##### 〇 リンクステートデータベースの確認（show ip ospf database)<br>
+<img width="1372" height="633" alt="image" src="https://github.com/user-attachments/assets/41cc6c95-d9bd-446f-88f2-f4ac63d685b1" />
 
 #### マルチエリアOSPF&再配送構成と確認（構成）<br>
 <img width="1384" height="683" alt="image" src="https://github.com/user-attachments/assets/97044908-90c7-4eda-8521-70d8a8068999" />
+
+##### 〇 R2の設定変更<br>
+<img width="1383" height="656" alt="image" src="https://github.com/user-attachments/assets/d3965936-2094-4cf0-8bfa-a808b924b2e6" />
+
+##### 〇 経路情報の確認（show ip route ospf)<br>
+<img width="1376" height="651" alt="image" src="https://github.com/user-attachments/assets/50316b9b-263a-45d3-8c10-105997afee7b" />
+
+##### 〇 リンクステートデータベースの確認（show ip ospf database)<br>
+<img width="1386" height="669" alt="image" src="https://github.com/user-attachments/assets/f80f1a5f-93a0-446e-9464-64280d88f0a3" />
+
+#### （参考）OSPFの関連情報<br>
+<img width="1383" height="691" alt="image" src="https://github.com/user-attachments/assets/0eb39cfb-466d-42e7-8708-eaafb295358d" />
+<img width="1387" height="673" alt="image" src="https://github.com/user-attachments/assets/192871f0-e491-4c51-9ae0-927a19c8580a" />
+<img width="1390" height="680" alt="image" src="https://github.com/user-attachments/assets/2328b6e2-ff5f-4488-8fad-3f0c5c71e1f9" />
+
+##### （参考）主なリンク状態広告（LSA：Link-State Advertizement）の種類<br>
+<img width="1378" height="619" alt="image" src="https://github.com/user-attachments/assets/e9f240c0-6887-441a-8852-2a1b689faa63" />
+
+<img width="1378" height="625" alt="image" src="https://github.com/user-attachments/assets/bb502c89-3924-4336-a843-db00717417b3" />
+
+<img width="1398" height="572" alt="image" src="https://github.com/user-attachments/assets/47035a9a-d8e7-4467-9e7d-3a25d5461743" />
+
+<img width="1391" height="637" alt="image" src="https://github.com/user-attachments/assets/92b315df-302d-402c-9c1a-a0790b6372d0" />
+
+<img width="1380" height="617" alt="image" src="https://github.com/user-attachments/assets/c1381d24-8f35-4a6f-ad35-307a46507651" />
+
+
 
 
 
