@@ -1,5 +1,5 @@
 # CML2.8_Lab_Basic-NW-lab<br>
-### lastUpdate:2026/05/09<br>
+### LastUpdate:2026/05/09<br>
 
 # １　Basic-NW-labの実習構成<br>
 ## 今回の演習は以下の３つの構成で実施します<br>
