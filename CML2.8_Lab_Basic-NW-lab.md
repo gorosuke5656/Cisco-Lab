@@ -219,7 +219,7 @@
 ### 5 HSRPによるデフォルトGW冗長化と確認　<br>
 #### 構成は以下のようになります<br>
 <img width="1385" height="638" alt="image" src="https://github.com/user-attachments/assets/41f8face-9f55-4adb-9d90-a42c14b01f87" />
-#### 設定及び確認手順<br>
+
 <img width="1390" height="661" alt="image" src="https://github.com/user-attachments/assets/fa921baa-4d08-4b10-b697-e1815b05515c" />
 
 
