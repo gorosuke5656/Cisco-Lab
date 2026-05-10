@@ -55,10 +55,20 @@
 ### (1)-2 RIPv2による経路情報の交換<br>
 <img width="1338" height="704" alt="image" src="https://github.com/user-attachments/assets/ddcf094c-5622-4f1d-959b-2503171f18f9" />
 
-#### 参考：RIPVer1運用における問題点とRIPVer２の利点<br>
+#### 参考：RIPVer1運用における問題点とRIPVer2の利点<br>
 <img width="1191" height="593" alt="image" src="https://github.com/user-attachments/assets/563142d0-c5bd-4fa1-9b01-fe8d7727fbb0" />
 
 <img width="1199" height="555" alt="image" src="https://github.com/user-attachments/assets/7a31a9b9-692d-45b8-97c8-702fceecdfaf" />
+
+##### RIPVer2の特徴<br>
+<img width="1384" height="673" alt="image" src="https://github.com/user-attachments/assets/22b609a9-d3ad-4b18-a8f9-2d35aab4dfc7" />
+
+<img width="1387" height="624" alt="image" src="https://github.com/user-attachments/assets/f5a7913c-de4c-47a5-b799-c896a780d3ba" />
+
+
+#### 【オプション課題(RIPVer2における自動集約機能の有無における違いを確認しましょう！）】<br>
+
+<img width="1380" height="625" alt="image" src="https://github.com/user-attachments/assets/e065393f-91c5-4bbb-aad9-1716118a3320" />
 
 
 
@@ -122,9 +132,6 @@
 <img width="1391" height="637" alt="image" src="https://github.com/user-attachments/assets/92b315df-302d-402c-9c1a-a0790b6372d0" />
 
 <img width="1380" height="617" alt="image" src="https://github.com/user-attachments/assets/c1381d24-8f35-4a6f-ad35-307a46507651" />
-
-
-
 
 
 #### 【オプション課題(MTU値の違いによるOSPFネイバー未確立の確認】<br>
