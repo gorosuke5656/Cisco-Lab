@@ -234,7 +234,17 @@
 
 <img width="1582" height="693" alt="image" src="https://github.com/user-attachments/assets/9c458952-e2b8-4a8b-a432-45205949939c" />
 
+#### HSRP障害時における動作確認<br>
+<img width="1590" height="734" alt="image" src="https://github.com/user-attachments/assets/650d3330-0682-4343-9273-91752601303b" />
 
+##### 障害時における動作確認（R1）<br>
+<img width="1576" height="573" alt="image" src="https://github.com/user-attachments/assets/740c81c6-df53-42ea-8f72-41e3dd8eab86" />
+<img width="1547" height="626" alt="image" src="https://github.com/user-attachments/assets/cf69edb7-8dd1-4256-bf4d-5bf4d56ffd51" />
+
+##### 障害時における動作確認（R2）<br>
+<img width="1563" height="671" alt="image" src="https://github.com/user-attachments/assets/44a9d59e-adc6-4502-ba13-ca565662390a" />
+
+##### 障害時における動作確認（SW1からのPING及びTraceroute）<br>
 
 
 
