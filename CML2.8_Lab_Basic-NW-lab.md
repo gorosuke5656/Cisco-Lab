@@ -232,7 +232,8 @@
 ##### 正常時における動作確認（SW1からのPING及びTraceroute）<br>
 <img width="1585" height="733" alt="image" src="https://github.com/user-attachments/assets/bebaae30-01a6-414c-ac06-86ba3027d70b" />
 
-<img width="1582" height="693" alt="image" src="https://github.com/user-attachments/assets/9c458952-e2b8-4a8b-a432-45205949939c" />
+<img width="1365" height="562" alt="image" src="https://github.com/user-attachments/assets/bc30e0b0-3cad-46fb-ad09-28205c0718cd" />
+
 
 #### HSRP障害時における動作確認<br>
 <img width="1590" height="734" alt="image" src="https://github.com/user-attachments/assets/650d3330-0682-4343-9273-91752601303b" />
@@ -245,6 +246,9 @@
 <img width="1563" height="671" alt="image" src="https://github.com/user-attachments/assets/44a9d59e-adc6-4502-ba13-ca565662390a" />
 
 ##### 障害時における動作確認（SW1からのPING及びTraceroute）<br>
+<img width="1382" height="578" alt="image" src="https://github.com/user-attachments/assets/ed306b2e-88e0-40e2-8888-de0b4a6b1300" />
+
+
 
 ##### （確認）HSRP障害時におけるR1/R2のARPテーブルはどうなっているでしょうか？？<br>
 <img width="1584" height="665" alt="image" src="https://github.com/user-attachments/assets/1e8a4c11-822f-4fc6-bea1-4b4ff7ae552d" />
