@@ -220,7 +220,22 @@
 #### 構成は以下のようになります<br>
 <img width="1385" height="638" alt="image" src="https://github.com/user-attachments/assets/41f8face-9f55-4adb-9d90-a42c14b01f87" />
 
-<img width="1390" height="661" alt="image" src="https://github.com/user-attachments/assets/fa921baa-4d08-4b10-b697-e1815b05515c" />
+<img width="1594" height="762" alt="image" src="https://github.com/user-attachments/assets/b209be78-dca6-41b3-b31d-efefc55e2fd4" />
+
+#### HSRP正常時における動作確認<br>
+##### 正常時における動作確認（R1）<br>
+<img width="1574" height="682" alt="image" src="https://github.com/user-attachments/assets/28d9c5e1-583e-44df-9b1d-0a4f172f70bf" />
+
+##### 正常時における動作確認（R2）<br>
+<img width="1596" height="683" alt="image" src="https://github.com/user-attachments/assets/a97b4fb3-6d1f-4aec-8bd6-74120202ba6a" />
+
+##### 正常時における動作確認（SW1からのPING及びTraceroute）<br>
+<img width="1585" height="733" alt="image" src="https://github.com/user-attachments/assets/bebaae30-01a6-414c-ac06-86ba3027d70b" />
+
+<img width="1582" height="693" alt="image" src="https://github.com/user-attachments/assets/9c458952-e2b8-4a8b-a432-45205949939c" />
+
+
+
 
 
 
