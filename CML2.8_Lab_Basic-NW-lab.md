@@ -246,6 +246,13 @@
 
 ##### 障害時における動作確認（SW1からのPING及びTraceroute）<br>
 
+##### （確認）HSRP障害時におけるR1/R2のARPテーブルはどうなっているでしょうか？？<br>
+<img width="1584" height="665" alt="image" src="https://github.com/user-attachments/assets/1e8a4c11-822f-4fc6-bea1-4b4ff7ae552d" />
+
+##### （確認）HSRP Preemptの設定と確認<br>
+<img width="1188" height="557" alt="image" src="https://github.com/user-attachments/assets/847587ab-9192-4f38-bea8-8abf1867f534" />
+
+
 
 
 
