@@ -16,7 +16,7 @@
 
 # 2 　Basic-NW-labで取り上げるテーマ<br>
 # 【ルータネットワーク実習】<br>
- [(1) RIPv1/V2による経路情報の交換](##(1)　RIPv1/v2による経路情報の交換)<br>
+ - [(1) RIPv1/V2による経路情報の交換](#1-ripv1v2による経路情報の交換))<br>
 ## (2)　OSPFによる経路情報の交換<br>
 ## (3） EIGRPによる経路情報の交換<br>
 ## (4)　複数のRoutingプロトコルによる経路情報の交換<br>
@@ -48,7 +48,7 @@
 
 
 # 4　【ルーターネットワーク実習】<br>
-## (1)　RIPv1/v2による経路情報の交換<br>
+## (1) RIPv1/V2による経路情報の交換<br>
 ### (1)-1 RIPv1による経路情報の交換<br>
 <img width="1350" height="701" alt="image" src="https://github.com/user-attachments/assets/68ecbe5e-06db-40cf-ae64-76884c70468f" />
 
