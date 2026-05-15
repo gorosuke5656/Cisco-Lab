@@ -158,7 +158,7 @@
 ##### MTU値変更（MTU:1280 → MTU:1500）/OSPFネイバーを確認<br>
 <img width="1381" height="522" alt="image" src="https://github.com/user-attachments/assets/2d35c4c0-85f9-430b-848e-3dba16fc8c52" />
 
-# #EIGRP-routing<br>
+# EIGRP-routing<br>
 <img width="1588" height="745" alt="image" src="https://github.com/user-attachments/assets/4cc2ebbd-5021-48b6-95f8-a4eddb1623fd" />
 
 ##### EIGRPの設定<br>
