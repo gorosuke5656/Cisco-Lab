@@ -19,8 +19,8 @@
  - [(1) RIPv1/V2による経路情報の交換](#RIP-Routing)<br>
  - [(2) OSPFによる経路情報の交換](#OSPF-routing)<br>
  - [(3) EIGRPによる経路情報の交換](#EIGRP-routing)<br>
-## (2)　OSPFによる経路情報の交換<br>
-## (3） EIGRPによる経路情報の交換<br>
+ - [(4) 複数のRoutingプロトコルによる経路情報の交換](#Multu-routing)<br>
+ - [(5) HSRPによるデフォルトGWの冗長化と確認](#HSRP)<br>
 ## (4)　複数のRoutingプロトコルによる経路情報の交換<br>
 ## (5)　HSRPによるデフォルトGWの冗長化と確認<br>
 # 【SWネットワーク実習】<br>
