@@ -16,9 +16,9 @@
 
 # 2 　Basic-NW-labで取り上げるテーマ<br>
 # 【ルータネットワーク実習】<br>
- - [(1) RIPv1/V2による経路情報の交換](#1-ripv1v2による経路情報の交換)<br>
- - [(2) OSPFによる経路情報の交換](#ospf-routing)<br>
- - [(3) EIGRPによる経路情報の交換](#3-EIGRPによる経路情報の交換<br>)<br>
+ - [(1) RIPv1/V2による経路情報の交換](#RIP-Routing)<br>
+ - [(2) OSPFによる経路情報の交換](#OSPF-routing)<br>
+ - [(3) EIGRPによる経路情報の交換](#EIGRP-routing)<br>
 ## (2)　OSPFによる経路情報の交換<br>
 ## (3） EIGRPによる経路情報の交換<br>
 ## (4)　複数のRoutingプロトコルによる経路情報の交換<br>
@@ -50,7 +50,7 @@
 
 
 # 4　【ルーターネットワーク実習】<br>
-## (1) RIPv1/V2による経路情報の交換<br>
+## RIP-Routing<br>
 ### (1)-1 RIPv1による経路情報の交換<br>
 <img width="1350" height="701" alt="image" src="https://github.com/user-attachments/assets/68ecbe5e-06db-40cf-ae64-76884c70468f" />
 
@@ -160,7 +160,7 @@
 ##### MTU値変更（MTU:1280 → MTU:1500）/OSPFネイバーを確認<br>
 <img width="1381" height="522" alt="image" src="https://github.com/user-attachments/assets/2d35c4c0-85f9-430b-848e-3dba16fc8c52" />
 
-# 3 EIGRPによる経路情報の交換<br>
+# #EIGRP-routing<br>
 <img width="1588" height="745" alt="image" src="https://github.com/user-attachments/assets/4cc2ebbd-5021-48b6-95f8-a4eddb1623fd" />
 
 ##### EIGRPの設定<br>
