@@ -18,7 +18,7 @@
 # 【ルータネットワーク実習】<br>
  - [(1) RIPv1/V2による経路情報の交換](#1-ripv1v2による経路情報の交換)<br>
  - [(2) OSPFによる経路情報の交換](#2-ospfによる経路情報の交換)<br>
-
+ - [(3) EIGRPによる経路情報の交換](#3-EIGRPによる経路情報の交換<br>)<br>
 ## (2)　OSPFによる経路情報の交換<br>
 ## (3） EIGRPによる経路情報の交換<br>
 ## (4)　複数のRoutingプロトコルによる経路情報の交換<br>
@@ -160,7 +160,7 @@
 ##### MTU値変更（MTU:1280 → MTU:1500）/OSPFネイバーを確認<br>
 <img width="1381" height="522" alt="image" src="https://github.com/user-attachments/assets/2d35c4c0-85f9-430b-848e-3dba16fc8c52" />
 
-### ３ EIGRPによる経路情報の交換<br>
+# 3 EIGRPによる経路情報の交換<br>
 <img width="1588" height="745" alt="image" src="https://github.com/user-attachments/assets/4cc2ebbd-5021-48b6-95f8-a4eddb1623fd" />
 
 ##### EIGRPの設定<br>
