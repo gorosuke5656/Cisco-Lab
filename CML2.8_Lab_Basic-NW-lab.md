@@ -17,7 +17,7 @@
 # 2 　Basic-NW-labで取り上げるテーマ<br>
 # 【ルータネットワーク実習】<br>
  - [(1) RIPv1/V2による経路情報の交換](#1-ripv1v2による経路情報の交換)<br>
- - [(2) OSPFによる経路情報の交換](#2ospf-routing)<br>
+ - [(2) OSPFによる経路情報の交換](#ospf-routing)<br>
  - [(3) EIGRPによる経路情報の交換](#3-EIGRPによる経路情報の交換<br>)<br>
 ## (2)　OSPFによる経路情報の交換<br>
 ## (3） EIGRPによる経路情報の交換<br>
@@ -74,7 +74,7 @@
 
 
 
-# 2ospf-routing<br>
+# ospf-routing<br>
 #### シングルエリア構成と確認（構成）<br>
 <img width="1386" height="678" alt="image" src="https://github.com/user-attachments/assets/e78c077c-3abc-4af9-a7aa-8521190a7a87" />
 
