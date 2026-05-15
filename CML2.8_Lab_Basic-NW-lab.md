@@ -21,15 +21,13 @@
  - [(3) EIGRPによる経路情報の交換](#EIGRP-routing)<br>
  - [(4) 複数のRoutingプロトコルによる経路情報の交換](#Multu-routing)<br>
  - [(5) HSRPによるデフォルトGWの冗長化と確認](#HSRP)<br>
-## (4)　複数のRoutingプロトコルによる経路情報の交換<br>
-## (5)　HSRPによるデフォルトGWの冗長化と確認<br>
 # 【SWネットワーク実習】<br>
-## (1） CDP/LLDPによる隣接関係の確認<br>
-## (2)　VLANの構成及び確認<br>
-## (3)　STPの構成および確認<br>
-## (4)  Storm Control設定と確認<br>
-## (5)　LAG設定と確認<br>
-## (6)　ACL設定と確認<br>
+ - [(1) CDP/LLDPによる隣接関係の確認](#CDP/LLDP)<br>
+ - [(2) VLANの構成及び確認](#VLAN)<br>
+ - [(3) STPの構成及び確認](#STP)<br>
+ - [(4) Strom Control設定と確認](#StromControl)<br>
+ - [(5) LAG設定と確認](#LAG)<br>
+ - [(6) ACL設定と確認](#ACL)<br>
 
 # 3 　各ノードへのアクセス<br>
 ## CML内臓コンソールサーバ機能を使用してSSH経由で接続→CML内のデバイスにアクセス<br>
@@ -228,10 +226,10 @@
 ##### 【オプション課題：Stack in Activeが発生するネットワーク構成と対策】<br>
 <img width="1333" height="588" alt="image" src="https://github.com/user-attachments/assets/f18a79ef-84be-478e-af23-554c71c0783b" />
 
+# Multu-routing<br>
 
+# HSRP<br>
 
-
-### 5 HSRPによるデフォルトGW冗長化と確認　<br>
 #### 構成は以下のようになります<br>
 <img width="1385" height="638" alt="image" src="https://github.com/user-attachments/assets/41f8face-9f55-4adb-9d90-a42c14b01f87" />
 
@@ -276,7 +274,7 @@
 
 
 # 4　【SWネットワーク実習】<br>
-## (1）CDP/LLDPによる隣接関係の確認<br>
+# CDP/LLDP<br>
 ### CDP/LLDPを使用して対向のSWの情報を確認してみましょう！<br>
 <img width="1392" height="674" alt="image" src="https://github.com/user-attachments/assets/45ef4ade-6e7c-4eaf-a7ca-d5602eb02772" />
 
@@ -292,10 +290,11 @@
 
 <img width="1362" height="667" alt="image" src="https://github.com/user-attachments/assets/4da82ea8-6294-479f-84e9-e402414c47e1" />
 
-## (2) VLANの構成及び確認<br>
+# VLAN<br>
 
-## (3) STPの構成及び確認<br>
-### 以下の構成でSTP設定及び確認を実施します
+
+# STP<br>
+## 以下の構成でSTP設定及び確認を実施します
 <img width="1183" height="518" alt="image" src="https://github.com/user-attachments/assets/8beb6f55-289d-47cb-a5aa-f9b21f983121" />
 
 #### STP構成の確認
