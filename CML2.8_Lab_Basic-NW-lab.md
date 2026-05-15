@@ -320,8 +320,8 @@
 <img width="1326" height="637" alt="image" src="https://github.com/user-attachments/assets/736ef4d5-1f34-4f43-9f8e-7bd8173bd3f2" />
 
 ##### （実習２）ルートブリッジを変更して見ましょう!<br>
-
-## (4)　Storm Control設定と確認<br>
+# StromControl<br>
+# LA
 ## (5)　LAG設定と確認<br>
 ## (6)　ACL設定と確認<br>
 
