@@ -1,5 +1,5 @@
 # CML2.8_Lab_Basic-NW-lab<br>
-### LastUpdate:2026/05/15<br>
+### LastUpdate:2026/05/16<br>
 
 # １　Basic-NW-labの実習構成<br>
 ## 今回の演習は以下の３つの構成で実施します<br>
@@ -67,8 +67,19 @@
 
 
 #### 【オプション課題(RIPVer2における自動集約機能の有無における違いを確認しましょう！）】<br>
+<img width="1389" height="630" alt="image" src="https://github.com/user-attachments/assets/86d15e85-8cb9-4a0c-ba0d-91459e29a346" />
 
-<img width="1380" height="625" alt="image" src="https://github.com/user-attachments/assets/e065393f-91c5-4bbb-aad9-1716118a3320" />
+##### R1/R2においてRIPv2の自動集約を無効にしていない場合、R3のルーティングテーブルは以下のようになります<br>
+<img width="1395" height="634" alt="image" src="https://github.com/user-attachments/assets/b2e6d0ff-39d5-45e9-9702-8265a54df2f0" />
+
+
+##### R1/R2においてRIPv2の自動集約を無効を設定<br>
+<img width="1393" height="645" alt="image" src="https://github.com/user-attachments/assets/de6c9d1e-cdf8-42b4-a4c7-f3e0cdea999c" />
+
+##### R1/R2においてRIPv2の自動集約を無効を設定<br>
+<img width="1374" height="642" alt="image" src="https://github.com/user-attachments/assets/1cba72d6-793d-415b-8880-dcc7470a0b14" />
+
+
 
 
 
