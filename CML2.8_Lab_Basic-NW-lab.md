@@ -28,6 +28,10 @@
  - [(4) Strom Control設定と確認](#StromControl)<br>
  - [(5) LAG設定と確認](#LAG)<br>
  - [(6) ACL設定と確認](#ACL)<br>
+# 【参考資料】<br>
+- [(1) Cisco機器に対するSSH設定](#SSH)<br>
+- [(2) Ciscoスイッチにおけるポートミラーリング設定](#Mirror-config)<br>
+
 
 # 3 　各ノードへのアクセス<br>
 ## CML内臓コンソールサーバ機能を使用してSSH経由で接続→CML内のデバイスにアクセス<br>
@@ -337,5 +341,13 @@
 # LAG<br>
 
 # ACL<br>
+
+# 【参考資料】<br>
+
+# SSH<br>
+
+# Mirror-config
+
+
 
 
