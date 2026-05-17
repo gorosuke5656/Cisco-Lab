@@ -1,5 +1,5 @@
 # CML2.8_Lab_Basic-NW-lab<br>
-### LastUpdate:2026/05/17<br>
+### LastUpdate:2026/05/18<br>
 
 # １　Basic-NW-labの実習構成<br>
 ## 今回の演習は以下の３つの構成で実施します<br>
@@ -343,9 +343,19 @@
 ## 構成図<br>
 <img width="1379" height="636" alt="image" src="https://github.com/user-attachments/assets/3ae79f27-d0ea-402a-8e05-ae29f8ca75f1" />
 
+<img width="1380" height="653" alt="image" src="https://github.com/user-attachments/assets/cfb90017-47e4-4bdb-8794-ec232b7ac5ee" />
+
 ## LAG障害時<br>
 <img width="1373" height="629" alt="image" src="https://github.com/user-attachments/assets/306a3c49-bfa9-4933-9cea-5efcaf467aba" />
 
+## （参考）LAG状態例<br>
+<img width="1378" height="647" alt="image" src="https://github.com/user-attachments/assets/c94e0953-c559-4b61-9b0c-744e5c7ae055" />
+
+<img width="1355" height="607" alt="image" src="https://github.com/user-attachments/assets/70eb8c00-14af-4c6d-ac86-fc80a2c6eb53" />
+
+<img width="1385" height="639" alt="image" src="https://github.com/user-attachments/assets/de6dab9e-b907-44a3-9f5a-368c100860b0" />
+
+<img width="1379" height="629" alt="image" src="https://github.com/user-attachments/assets/ed5348d1-5ee5-4607-a5f4-2a297ad1d87d" />
 
 
 # ACL<br>
