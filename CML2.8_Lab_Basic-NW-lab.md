@@ -179,7 +179,8 @@
 ##### EIGRPの設定<br>
 <img width="1377" height="673" alt="image" src="https://github.com/user-attachments/assets/96332535-10cc-4f2b-8e9c-add5e6704732" />
 
-<img width="1380" height="677" alt="image" src="https://github.com/user-attachments/assets/bfd5ac0a-c7db-459a-9b41-1e4861af12da" />
+<img width="1582" height="779" alt="image" src="https://github.com/user-attachments/assets/4876e3f8-b3e1-4168-9bdd-7d3c352f9897" />
+
 
 #### 複合メトリックを使用した経路制御<br>
 ##### 構成は以下のようになります<br>
