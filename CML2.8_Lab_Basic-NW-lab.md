@@ -340,6 +340,12 @@
 # StromControl<br>
 
 # LAG<br>
+## 構成図<br>
+<img width="1379" height="636" alt="image" src="https://github.com/user-attachments/assets/3ae79f27-d0ea-402a-8e05-ae29f8ca75f1" />
+## LAG障害時の動作確認<br>
+<img width="1373" height="629" alt="image" src="https://github.com/user-attachments/assets/306a3c49-bfa9-4933-9cea-5efcaf467aba" />
+
+
 
 # ACL<br>
 
