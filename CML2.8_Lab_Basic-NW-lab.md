@@ -1,5 +1,5 @@
 # CML2.8_Lab_Basic-NW-lab<br>
-### LastUpdate:2026/05/18<br>
+### LastUpdate:2026/05/24<br>
 
 # １　Basic-NW-labの実習構成<br>
 ## 今回の演習は以下の３つの構成で実施します<br>
@@ -30,8 +30,8 @@
  - [(6) ACL設定と確認](#ACL)<br>
 # 【参考資料】<br>
 - [(1) Cisco機器に対するSSH設定](#SSH)<br>
-- [(2) Ciscoスイッチにおけるポートミラーリング設定](#Mirror-config)<br>
-
+- [(2) Catalystスイッチによるポートミラーリング設定](#Mirror-config)<br>
+- [(2) Catalyst2960におけるパスワードリカバリー](#Catalyst2960-Password-recovery)<br>
 
 # 3 　各ノードへのアクセス<br>
 ## CML内臓コンソールサーバ機能を使用してSSH経由で接続→CML内のデバイスにアクセス<br>
@@ -365,6 +365,8 @@
 # SSH<br>
 
 # Mirror-config
+
+# Catalyst2960-Password-recover
 
 
 
