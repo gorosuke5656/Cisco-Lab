@@ -31,7 +31,7 @@
 # 【参考資料】<br>
 - [(1) Cisco機器に対するSSH設定](#SSH)<br>
 - [(2) Catalystスイッチによるポートミラーリング設定](#Mirror-config)<br>
-- [(2) Catalyst2960におけるパスワードリカバリー](#Catalyst2960-Password-recovery)<br>
+- [(3) Catalyst2960におけるパスワードリカバリー](#Catalyst2960-Password-recovery)<br>
 
 # 3 　各ノードへのアクセス<br>
 ## CML内臓コンソールサーバ機能を使用してSSH経由で接続→CML内のデバイスにアクセス<br>
