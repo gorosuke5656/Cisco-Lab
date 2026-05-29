@@ -1,5 +1,5 @@
 # CML2.8_Lab_Basic-NW-lab<br>
-### LastUpdate:2026/05/24<br>
+### LastUpdate:2026/05/30<br>
 
 # １　Basic-NW-labの実習構成<br>
 ## 今回の演習は以下の３つの構成で実施します<br>
@@ -228,6 +228,27 @@
 
 ###### SW1からのPING及びtraceroute確認<br>
  <img width="1376" height="596" alt="image" src="https://github.com/user-attachments/assets/8a70fc54-a080-465e-b204-c3a5b7dd137f" />
+
+##### （参考）EIGRPの概要<br>
+<img width="1392" height="649" alt="image" src="https://github.com/user-attachments/assets/eb05e5be-4325-40b3-8de5-22173fb93c6f" />
+
+<img width="1388" height="677" alt="image" src="https://github.com/user-attachments/assets/04e7da59-5e06-4a28-8d2d-7bd648725039" />
+
+###### （参考）EIGRPで使用される用語<br>
+<img width="1385" height="626" alt="image" src="https://github.com/user-attachments/assets/18e3d396-477a-4af1-9328-7636ab655b09" />
+
+<img width="1384" height="634" alt="image" src="https://github.com/user-attachments/assets/e46ee642-79d0-4004-927e-c652268e92e8" />
+
+###### （参考）EIGRPにおけるフィージブルサクセサの選出例<br>
+<img width="1389" height="643" alt="image" src="https://github.com/user-attachments/assets/0988e705-80bb-4835-a597-fbecd329592f" />
+
+<img width="1384" height="635" alt="image" src="https://github.com/user-attachments/assets/e002af15-85eb-4ca7-9758-67c7fa8954cb" />
+
+
+
+
+
+
 
   
 ##### （参考）複合メトリックを使用した経路制御について<br>
