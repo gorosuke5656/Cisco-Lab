@@ -331,6 +331,9 @@
 ### トランクポートの設定と確認<br>
 <img width="1386" height="641" alt="image" src="https://github.com/user-attachments/assets/e5198016-4287-478c-a296-4ee627d42deb" />
 
+#### トランクポート設定時における挙動について<br>
+<img width="1381" height="636" alt="image" src="https://github.com/user-attachments/assets/3aa70037-b9c3-43c5-b0d1-c49837a3b949" />
+
 <img width="1394" height="644" alt="image" src="https://github.com/user-attachments/assets/6ed87825-a19c-421c-8526-d04bd878d7ca" />
 
 <img width="1380" height="628" alt="image" src="https://github.com/user-attachments/assets/26d0f905-76d4-47c0-a945-15e596aea8ab" />
