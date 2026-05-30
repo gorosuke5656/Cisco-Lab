@@ -1,5 +1,5 @@
 # CML2.8_Lab_Basic-NW-lab<br>
-### LastUpdate:2026/05/30<br>
+### LastUpdate:2026/05/31<br>
 
 # １　Basic-NW-labの実習構成<br>
 ## 今回の演習は以下の３つの構成で実施します<br>
@@ -245,11 +245,6 @@
 <img width="1384" height="635" alt="image" src="https://github.com/user-attachments/assets/e002af15-85eb-4ca7-9758-67c7fa8954cb" />
 
 
-
-
-
-
-
   
 ##### （参考）複合メトリックを使用した経路制御について<br>
 <img width="1393" height="681" alt="image" src="https://github.com/user-attachments/assets/832b88d7-f860-4958-800b-800532be5de8" />
@@ -328,6 +323,31 @@
 <img width="1362" height="667" alt="image" src="https://github.com/user-attachments/assets/4da82ea8-6294-479f-84e9-e402414c47e1" />
 
 # VLAN<br>
+### アクセスポートの設定と確認<br>
+<img width="1593" height="622" alt="image" src="https://github.com/user-attachments/assets/43a2f67a-b95f-49ff-be42-2f510b684102" />
+
+<img width="1391" height="636" alt="image" src="https://github.com/user-attachments/assets/64b3f010-897d-4268-8aac-c38dda6ef916" />
+
+### トランクポートの設定と確認<br>
+<img width="1386" height="641" alt="image" src="https://github.com/user-attachments/assets/e5198016-4287-478c-a296-4ee627d42deb" />
+
+<img width="1394" height="644" alt="image" src="https://github.com/user-attachments/assets/6ed87825-a19c-421c-8526-d04bd878d7ca" />
+
+<img width="1380" height="628" alt="image" src="https://github.com/user-attachments/assets/26d0f905-76d4-47c0-a945-15e596aea8ab" />
+
+#### Wiresharkによるトランクポートの確認<br>
+<img width="1382" height="631" alt="image" src="https://github.com/user-attachments/assets/46032007-81f2-457e-88a0-a0ac87399c6a" />
+
+<img width="1387" height="584" alt="image" src="https://github.com/user-attachments/assets/d9744ded-91b2-409a-abfe-3ce9944d2b03" />
+
+<img width="1390" height="599" alt="image" src="https://github.com/user-attachments/assets/c2c1d45f-fa12-407c-bdec-1a6f206606ff" />
+
+#### パケットキャプチャを準備後、R1からR2にPINGを実施します～<br>
+<img width="1273" height="582" alt="image" src="https://github.com/user-attachments/assets/a664a9dd-889b-4e40-9398-38e2f88feaeb" />
+
+#### R1→R2へPING送受信時のパケットを確認<br>
+<img width="1383" height="588" alt="image" src="https://github.com/user-attachments/assets/2bf79543-7d14-4d7f-bf1e-3f77dcf651e3" />
+
 
 
 # STP<br>
