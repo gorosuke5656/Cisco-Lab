@@ -384,6 +384,16 @@
 # 【参考資料】<br>
 
 # SSH<br>
+### Cisco機器におけるSSH設定例<br>
+<img width="1340" height="664" alt="image" src="https://github.com/user-attachments/assets/72aae0eb-c4ca-4e5f-b842-dcaee4c901bf" />
+
+<img width="1338" height="670" alt="image" src="https://github.com/user-attachments/assets/fef69610-3702-4ec4-9607-692352511b24" />
+
+### Cisco機器から他の機器にSSH接続する場合<br>
+<img width="1310" height="567" alt="image" src="https://github.com/user-attachments/assets/d0bdf487-404a-4091-bdc5-578693cf494e" />
+
+
+
 
 # Mirror-config
 
