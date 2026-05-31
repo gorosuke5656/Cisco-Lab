@@ -64,6 +64,15 @@
 <img width="1338" height="704" alt="image" src="https://github.com/user-attachments/assets/ddcf094c-5622-4f1d-959b-2503171f18f9" />
 
 #### 参考：RIPv2でやり取りされるパケットを確認してみましょう！！<br>
+<img width="1591" height="716" alt="image" src="https://github.com/user-attachments/assets/754d2a60-1a73-4f63-a6e8-9713778c9d9d" />
+
+<img width="1581" height="774" alt="image" src="https://github.com/user-attachments/assets/eed013c7-0b11-4774-9e8b-9226b6e43b0c" />
+
+<img width="1592" height="785" alt="image" src="https://github.com/user-attachments/assets/b0f52614-4d59-41bc-a82b-3901f09bbdfe" />
+
+
+
+
 
 
 
