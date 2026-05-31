@@ -38,12 +38,16 @@
 # 3 　各ノードへのアクセス<br>
 ## CML内臓コンソールサーバ機能を使用してSSH経由で接続→CML内のデバイスにアクセス<br>
 <img width="1385" height="686" alt="image" src="https://github.com/user-attachments/assets/d5afc0de-5d46-4b76-b437-85ee48aa4852" />
+
 ### (1) SSHクライアント（Tereterm等）でコンソールサーバーに接続<br> 
 <img width="911" height="610" alt="image" src="https://github.com/user-attachments/assets/cf9bcd3a-661c-464c-9fc7-f91abb12c9d0" />
+
 ### (2) コンソールサーバー画面<br> 
 <img width="1128" height="600" alt="image" src="https://github.com/user-attachments/assets/0ddfd5db-30f5-48f8-a613-dff157c901f0" />
+
 ### (3) Listコマンドでノード一覧を表示<br> 
 <img width="1226" height="611" alt="image" src="https://github.com/user-attachments/assets/cf9d21bc-839f-4d15-8ea9-b15c8b556e53" />
+
 ### (4) OPENコマンドで該当装置に接続<br>
 <img width="1168" height="538" alt="image" src="https://github.com/user-attachments/assets/3a4aa78d-ca67-41f4-acc6-1c066c705df6" />
 
