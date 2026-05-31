@@ -13,6 +13,8 @@
 ### その３<br>
 <img width="1385" height="618" alt="image" src="https://github.com/user-attachments/assets/2e4cf69e-25f7-43ed-8c48-290d850328e8" />
 
+# 【ルーターとルーティング概要】<br>
+  - [ルータとルーティング概要](#Route-Routing-overview)<br>
 
 # 2 　Basic-NW-labで取り上げるテーマ<br>
 # 【ルータネットワーク実習】<br>
@@ -48,6 +50,9 @@
 
 ### (4) OPENコマンドで該当装置に接続<br>
 <img width="1168" height="538" alt="image" src="https://github.com/user-attachments/assets/3a4aa78d-ca67-41f4-acc6-1c066c705df6" />
+
+# 【ルーターとルーティング概要】<br>
+## Route-Routing-overview<br>
 
 
 
