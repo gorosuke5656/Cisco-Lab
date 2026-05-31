@@ -369,6 +369,16 @@
 #### R1→R2へPING送受信時のパケットを確認<br>
 <img width="1383" height="588" alt="image" src="https://github.com/user-attachments/assets/2bf79543-7d14-4d7f-bf1e-3f77dcf651e3" />
 
+### 参考：VLANの概要<br>
+<img width="1597" height="789" alt="image" src="https://github.com/user-attachments/assets/e6205586-d190-4d37-a105-b42ac3c9a2f7" />
+
+<img width="1592" height="774" alt="image" src="https://github.com/user-attachments/assets/eb3bf7a3-b456-479e-86fa-9e31174e507e" />
+
+<img width="1592" height="773" alt="image" src="https://github.com/user-attachments/assets/50f8aab9-912b-4350-8eaa-6c3eaf5a566b" />
+
+<img width="1584" height="778" alt="image" src="https://github.com/user-attachments/assets/7332a0ba-772b-4071-a99c-35b648d87f12" />
+
+
 
 
 # STP<br>
