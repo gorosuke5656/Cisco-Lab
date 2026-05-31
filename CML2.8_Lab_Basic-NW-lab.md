@@ -63,7 +63,9 @@
 ### (1)-2 RIPv2による経路情報の交換<br>
 <img width="1338" height="704" alt="image" src="https://github.com/user-attachments/assets/ddcf094c-5622-4f1d-959b-2503171f18f9" />
 
-### 参考：RIPv2でやり取りされるパケットを確認してみましょう！！<br>
+#### 参考：RIPv2でやり取りされるパケットを確認してみましょう！！<br>
+
+
 
 
 #### 参考：RIPVer1運用における問題点とRIPVer2の利点<br>
