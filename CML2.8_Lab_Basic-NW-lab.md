@@ -1,5 +1,5 @@
 # CML2.8_Lab_Basic-NW-lab<br>
-### LastUpdate:2026/05/31<br>
+### LastUpdate:2026/06/01<br>
 
 # １　Basic-NW-labの実習構成<br>
 ## 今回の演習は以下の３つの構成で実施します<br>
@@ -15,6 +15,24 @@
 
 # 【ルーターとルーティング概要】<br>
   - [ルータとルーティング概要](#Route-Routing-overview)<br>
+<img width="1386" height="732" alt="image" src="https://github.com/user-attachments/assets/1b3dfa33-093e-4f48-9bb7-03877a1cc819" />
+
+<img width="1399" height="721" alt="image" src="https://github.com/user-attachments/assets/a2538ac8-f885-42f2-821f-5b73f86aeabe" />
+
+<img width="1396" height="728" alt="image" src="https://github.com/user-attachments/assets/1c021f06-6a43-40a1-b4f4-d9785a71631a" />
+
+<img width="1387" height="732" alt="image" src="https://github.com/user-attachments/assets/5217efcc-0124-4251-8ee8-0ac355a6b90f" />
+
+<img width="1392" height="735" alt="image" src="https://github.com/user-attachments/assets/bce3e355-5e26-4f0c-be0d-d2712e166310" />
+
+<img width="1386" height="732" alt="image" src="https://github.com/user-attachments/assets/be0d3ad8-96a9-4a19-8521-fed0700f0e23" />
+
+<img width="1387" height="726" alt="image" src="https://github.com/user-attachments/assets/576cc425-5fb0-420d-a3b4-82e10d3a54bc" />
+
+
+
+
+
 
 
   
