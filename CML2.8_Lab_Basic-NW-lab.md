@@ -14,7 +14,7 @@
 <img width="1385" height="618" alt="image" src="https://github.com/user-attachments/assets/2e4cf69e-25f7-43ed-8c48-290d850328e8" />
 
 # 【ルーターとルーティング概要】<br>
-  - [ルータとルーティング概要](#Route-Routing-overview)<br>
+
 <img width="1386" height="732" alt="image" src="https://github.com/user-attachments/assets/1b3dfa33-093e-4f48-9bb7-03877a1cc819" />
 
 <img width="1399" height="721" alt="image" src="https://github.com/user-attachments/assets/a2538ac8-f885-42f2-821f-5b73f86aeabe" />
