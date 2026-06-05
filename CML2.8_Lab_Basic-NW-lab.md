@@ -83,6 +83,30 @@
 <img width="1592" height="785" alt="image" src="https://github.com/user-attachments/assets/b0f52614-4d59-41bc-a82b-3901f09bbdfe" />
 
 #### 参考：RIPの概要<br>
+<img width="1391" height="680" alt="image" src="https://github.com/user-attachments/assets/788a36ef-bfb6-473e-ba00-fb508baf3ee9" />
+
+<img width="1398" height="694" alt="image" src="https://github.com/user-attachments/assets/38e14002-9d3b-4793-b702-eb0501d868c4" />
+
+<img width="1396" height="675" alt="image" src="https://github.com/user-attachments/assets/481038f9-3193-49cb-ad08-6fa1c3d20456" />
+
+<img width="1397" height="672" alt="image" src="https://github.com/user-attachments/assets/a90d0de8-6573-4667-b23d-34499264b007" />
+
+<img width="1397" height="686" alt="image" src="https://github.com/user-attachments/assets/7857457d-2734-43c1-8d4f-0558ad382f66" />
+
+<img width="1384" height="669" alt="image" src="https://github.com/user-attachments/assets/7013ba21-466f-484f-bb3b-c596c96feaba" />
+
+<img width="1384" height="660" alt="image" src="https://github.com/user-attachments/assets/0714be7a-4beb-42a7-8c17-8fdcf62b2998" />
+
+<img width="1379" height="654" alt="image" src="https://github.com/user-attachments/assets/116b60de-df07-4e46-8e16-53f9bf65515e" />
+
+<img width="1395" height="647" alt="image" src="https://github.com/user-attachments/assets/e8334ba3-5265-4480-9539-5be7726bcfbf" />
+
+
+
+
+
+
+
 
 
 
