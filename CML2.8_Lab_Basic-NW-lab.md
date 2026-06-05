@@ -29,12 +29,6 @@
 
 <img width="1387" height="726" alt="image" src="https://github.com/user-attachments/assets/576cc425-5fb0-420d-a3b4-82e10d3a54bc" />
 
-
-
-
-
-
-
   
 
 # 2 　Basic-NW-labで取り上げるテーマ<br>
@@ -72,9 +66,6 @@
 ### (4) OPENコマンドで該当装置に接続<br>
 <img width="1168" height="538" alt="image" src="https://github.com/user-attachments/assets/3a4aa78d-ca67-41f4-acc6-1c066c705df6" />
 
-# 【ルーターとルーティング概要】<br>
-## Route-Routing-overview<br>
-
 
 # 4　【ルーターネットワーク実習】<br>
 ## RIP-Routing<br>
@@ -91,6 +82,7 @@
 
 <img width="1592" height="785" alt="image" src="https://github.com/user-attachments/assets/b0f52614-4d59-41bc-a82b-3901f09bbdfe" />
 
+#### 参考：RIPの概要<br>
 
 
 
