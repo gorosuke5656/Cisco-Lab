@@ -103,17 +103,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 #### 参考：RIPVer1運用における問題点とRIPVer2の利点<br>
 <img width="1191" height="593" alt="image" src="https://github.com/user-attachments/assets/563142d0-c5bd-4fa1-9b01-fe8d7727fbb0" />
 
@@ -188,9 +177,21 @@
 <img width="1386" height="669" alt="image" src="https://github.com/user-attachments/assets/f80f1a5f-93a0-446e-9464-64280d88f0a3" />
 
 #### （参考）OSPFの関連情報<br>
-<img width="1383" height="691" alt="image" src="https://github.com/user-attachments/assets/0eb39cfb-466d-42e7-8708-eaafb295358d" />
-<img width="1387" height="673" alt="image" src="https://github.com/user-attachments/assets/192871f0-e491-4c51-9ae0-927a19c8580a" />
-<img width="1390" height="680" alt="image" src="https://github.com/user-attachments/assets/2328b6e2-ff5f-4488-8fad-3f0c5c71e1f9" />
+##### OSPFの概要
+<img width="1387" height="647" alt="image" src="https://github.com/user-attachments/assets/c13e9c09-7b91-41db-b682-104a79f55049" />
+
+<img width="1384" height="691" alt="image" src="https://github.com/user-attachments/assets/51a17365-d9e9-47a9-ab15-d339b1db3467" />
+
+<img width="1387" height="678" alt="image" src="https://github.com/user-attachments/assets/469eee00-859e-4246-a353-ad79460e2e2a" />
+
+<img width="1394" height="685" alt="image" src="https://github.com/user-attachments/assets/bc281276-2a47-44d3-b99c-2147b221049f" />
+
+<img width="1381" height="685" alt="image" src="https://github.com/user-attachments/assets/505ad9d3-2612-431a-ab15-eb278d2538b1" />
+
+<img width="1378" height="675" alt="image" src="https://github.com/user-attachments/assets/8206a1e7-519b-42ed-aea2-c7a053b7b2bf" />
+
+<img width="1384" height="681" alt="image" src="https://github.com/user-attachments/assets/62648fb1-affe-47c9-9342-9cd538825c3d" />
+
 
 ##### （参考）主なリンク状態広告（LSA：Link-State Advertizement）の種類<br>
 <img width="1378" height="619" alt="image" src="https://github.com/user-attachments/assets/e9f240c0-6887-441a-8852-2a1b689faa63" />
