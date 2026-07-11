@@ -1,5 +1,5 @@
 # CML2.8_Lab_Basic-NW-lab<br>
-### LastUpdate:2026/06/05<br>
+### LastUpdate:2026/07/11<br>
 
 # １　Basic-NW-labの実習構成<br>
 ## 今回の演習は以下の３つの構成で実施します<br>
@@ -415,6 +415,15 @@
 <img width="1592" height="773" alt="image" src="https://github.com/user-attachments/assets/50f8aab9-912b-4350-8eaa-6c3eaf5a566b" />
 
 <img width="1584" height="778" alt="image" src="https://github.com/user-attachments/assets/7332a0ba-772b-4071-a99c-35b648d87f12" />
+
+<img width="1390" height="681" alt="image" src="https://github.com/user-attachments/assets/8f34037f-deb8-4a96-817b-0492104e5606" />
+
+<img width="1387" height="679" alt="image" src="https://github.com/user-attachments/assets/d2da3859-1e9b-4e97-ae37-a2b41d0eada9" />
+
+<img width="1387" height="678" alt="image" src="https://github.com/user-attachments/assets/13d22604-5cda-4acd-b58b-c2ab7e7bb103" />
+
+
+
 
 
 
