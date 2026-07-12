@@ -473,6 +473,21 @@
 #### 参考　STPの動作概要br>
 <img width="1382" height="678" alt="image" src="https://github.com/user-attachments/assets/3df32f44-a30b-4970-bf32-aaa9db1ac954" />
 
+##### １ Root Brigeの決定<br>
+<img width="1387" height="666" alt="image" src="https://github.com/user-attachments/assets/11c1ca04-598b-40e7-b5e1-b491679dab82" />
+
+<img width="1395" height="669" alt="image" src="https://github.com/user-attachments/assets/189f929a-934c-45be-a00b-b4f1f41169a6" />
+
+##### 2 Root Pootの決定<br>
+<img width="1390" height="685" alt="image" src="https://github.com/user-attachments/assets/8b6cab38-1055-4870-916b-dc86a47e3283" />
+
+<img width="1390" height="676" alt="image" src="https://github.com/user-attachments/assets/873328d8-a94c-49ae-beba-57e5b908d67e" />
+
+<img width="1393" height="644" alt="image" src="https://github.com/user-attachments/assets/334b63ca-631c-4f51-9fae-1b01aecf7737" />
+
+##### 3 Designateｄ Portの決定<br>
+
+<img width="1373" height="628" alt="image" src="https://github.com/user-attachments/assets/b055f4c3-fb4f-4021-814d-917a0b87cd8e" />
 
 
 
