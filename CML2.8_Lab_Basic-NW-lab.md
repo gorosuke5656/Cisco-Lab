@@ -1,5 +1,5 @@
 # CML2.8_Lab_Basic-NW-lab<br>
-### LastUpdate:2026/07/11<br>
+### LastUpdate:2026/07/12<br>
 
 # １　Basic-NW-labの実習構成<br>
 ## 今回の演習は以下の３つの構成で実施します<br>
@@ -430,23 +430,27 @@
 
 # STP<br>
 ## 以下の構成でSTP設定及び確認を実施します
-<img width="1183" height="518" alt="image" src="https://github.com/user-attachments/assets/8beb6f55-289d-47cb-a5aa-f9b21f983121" />
+<img width="1397" height="686" alt="image" src="https://github.com/user-attachments/assets/b4e64756-4934-4765-a013-faee58b44ec4" />
+
 
 #### STP構成の確認
-<img width="1183" height="579" alt="image" src="https://github.com/user-attachments/assets/92a0e8b9-cdd5-4bb0-90dc-3cc39dad6d6b" />
+<img width="1385" height="672" alt="image" src="https://github.com/user-attachments/assets/5ba93f46-fbc1-4762-b1a7-61e493785928" />
 
-今回は上記のように確認できました！<br>
+##### SW1における状態確認
+<img width="1379" height="678" alt="image" src="https://github.com/user-attachments/assets/1b36f22c-6e64-453e-a3a7-bfc3aaa6eb9e" />
+
+##### SW2における状態確認
+<img width="1387" height="675" alt="image" src="https://github.com/user-attachments/assets/fdfd0edc-125c-4a98-a6c4-643684dc3c8e" />
+
 
 #### 参考：show spanning-treeの表示について<br>
-<img width="1190" height="520" alt="image" src="https://github.com/user-attachments/assets/6beaea85-f743-4ff7-8c41-08aea47c16a3" />
+<img width="1392" height="688" alt="image" src="https://github.com/user-attachments/assets/79856ff7-9780-4d50-bcf7-655cc2c6f799" />
 
 ##### 参考 CiscoのSWはPVST+（Per-VLAN Spanning Tree）が動作するためこのようになります
-<img width="1333" height="663" alt="image" src="https://github.com/user-attachments/assets/412c20c0-26a4-498e-917d-816d99eb9c66" />
+<img width="1399" height="676" alt="image" src="https://github.com/user-attachments/assets/0a9f77ec-6d96-478a-87b1-b528d18c3318" />
 
 ##### （実習１）ブロッキングポートを変更して見ましょう!<br>
-<img width="1329" height="572" alt="image" src="https://github.com/user-attachments/assets/aa977b52-0fb5-41b3-a0e4-92852e3ef0ff" />
-<img width="1333" height="604" alt="image" src="https://github.com/user-attachments/assets/3d62d6c4-a159-42fb-b4b0-bd33beca39f5" />
-<img width="1327" height="633" alt="image" src="https://github.com/user-attachments/assets/15b6a974-427f-440d-af36-5a2b8500e2c9" />
+<img width="1389" height="513" alt="image" src="https://github.com/user-attachments/assets/aefe7a0c-3bdb-4021-b1aa-01431de6674f" />
 
 ##### SW2のパスコストを変更してブロッキングポートを変更
 <img width="1341" height="482" alt="image" src="https://github.com/user-attachments/assets/36ec91fa-06be-47a5-8c23-2e7fa647d0c9" />
@@ -454,7 +458,26 @@
 ##### ブロッキングポートが変更されました～<br>
 <img width="1326" height="637" alt="image" src="https://github.com/user-attachments/assets/736ef4d5-1f34-4f43-9f8e-7bd8173bd3f2" />
 
+
 ##### （実習２）ルートブリッジを変更して見ましょう!<br>
+
+#### 参考　STPの概要<br>
+<img width="1386" height="639" alt="image" src="https://github.com/user-attachments/assets/ed297843-00a8-4c23-baf0-54c0ff11630a" />
+
+<img width="1380" height="668" alt="image" src="https://github.com/user-attachments/assets/10839d9e-54f5-41a3-a3cc-15de7b518ba5" />
+
+<img width="1374" height="649" alt="image" src="https://github.com/user-attachments/assets/658652fb-8d4c-446c-b637-be823c2ed64c" />
+
+<img width="1389" height="400" alt="image" src="https://github.com/user-attachments/assets/13b6ad83-d467-4d68-a1f5-e82feea5a4d2" />
+
+#### 参考　STPの動作概要br>
+<img width="1382" height="678" alt="image" src="https://github.com/user-attachments/assets/3df32f44-a30b-4970-bf32-aaa9db1ac954" />
+
+
+
+
+
+
 
 # StromControl<br>
 
