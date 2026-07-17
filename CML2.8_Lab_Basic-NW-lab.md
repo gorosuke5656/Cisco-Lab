@@ -485,9 +485,13 @@
 
 <img width="1393" height="644" alt="image" src="https://github.com/user-attachments/assets/334b63ca-631c-4f51-9fae-1b01aecf7737" />
 
-##### 3 Designateｄ Portの決定<br>
+##### 3 Designated Portの決定<br>
 
 <img width="1373" height="628" alt="image" src="https://github.com/user-attachments/assets/b055f4c3-fb4f-4021-814d-917a0b87cd8e" />
+
+##### 4 Blocked Port(Non Designated Port）の決定<br>
+
+![Uploading image.png…]()
 
 
 
