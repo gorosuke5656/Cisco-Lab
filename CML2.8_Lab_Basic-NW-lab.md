@@ -1,5 +1,5 @@
 # CML2.8_Lab_Basic-NW-lab<br>
-### LastUpdate:2026/07/12<br>
+### LastUpdate:2026/07/18<br>
 
 # １　Basic-NW-labの実習構成<br>
 ## 今回の演習は以下の３つの構成で実施します<br>
@@ -490,33 +490,47 @@
 <img width="1373" height="628" alt="image" src="https://github.com/user-attachments/assets/b055f4c3-fb4f-4021-814d-917a0b87cd8e" />
 
 ##### 4 Blocked Port(Non Designated Port）の決定<br>
-
-![Uploading image.png…]()
-
-
-
+<img width="1596" height="685" alt="image" src="https://github.com/user-attachments/assets/c1b72bf5-6e17-47e0-80ac-09a0d3cec477" />
 
 
 
 # StromControl<br>
 
 # LAG<br>
-## 構成図<br>
-<img width="1379" height="636" alt="image" src="https://github.com/user-attachments/assets/3ae79f27-d0ea-402a-8e05-ae29f8ca75f1" />
+## 構成及び実施手順<br>
+<img width="1394" height="665" alt="image" src="https://github.com/user-attachments/assets/f84c76b4-0b48-48e0-bc60-5b54eb360312" />
 
-<img width="1380" height="653" alt="image" src="https://github.com/user-attachments/assets/cfb90017-47e4-4bdb-8794-ec232b7ac5ee" />
+<img width="1388" height="680" alt="image" src="https://github.com/user-attachments/assets/c8c89d42-b2e6-4628-8e85-f2418496fe07" />
 
-## LAG障害時<br>
-<img width="1373" height="629" alt="image" src="https://github.com/user-attachments/assets/306a3c49-bfa9-4933-9cea-5efcaf467aba" />
+## 設定後の確認(show etherchannel summary)<br>
+<img width="1375" height="639" alt="image" src="https://github.com/user-attachments/assets/d84a5e47-cdce-436c-b988-cb03337253df" />
 
 ## （参考）LAG状態例<br>
-<img width="1378" height="647" alt="image" src="https://github.com/user-attachments/assets/c94e0953-c559-4b61-9b0c-744e5c7ae055" />
+<img width="1388" height="640" alt="image" src="https://github.com/user-attachments/assets/7add6d80-a4a8-4d00-9d15-0faabe52362e" />
 
-<img width="1355" height="607" alt="image" src="https://github.com/user-attachments/assets/70eb8c00-14af-4c6d-ac86-fc80a2c6eb53" />
+<img width="1376" height="680" alt="image" src="https://github.com/user-attachments/assets/b67218c5-75ff-469c-be26-ef67924f75eb" />
 
-<img width="1385" height="639" alt="image" src="https://github.com/user-attachments/assets/de6dab9e-b907-44a3-9f5a-368c100860b0" />
+<img width="1392" height="668" alt="image" src="https://github.com/user-attachments/assets/57d9a74f-686e-45a3-b815-2a819bbc69bb" />
 
-<img width="1379" height="629" alt="image" src="https://github.com/user-attachments/assets/ed5348d1-5ee5-4607-a5f4-2a297ad1d87d" />
+<img width="1385" height="655" alt="image" src="https://github.com/user-attachments/assets/f93494f6-0ae9-4cd4-b296-999ec08d8b0b" />
+
+<img width="1383" height="670" alt="image" src="https://github.com/user-attachments/assets/c17cfaa3-1668-4cac-9237-b645affe063e" />
+
+<img width="1386" height="678" alt="image" src="https://github.com/user-attachments/assets/55a0718d-f575-4f79-9f86-a1079b8ee385" />
+
+## 参考：LAG(etherchannel)の概要<br>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # ACL<br>
