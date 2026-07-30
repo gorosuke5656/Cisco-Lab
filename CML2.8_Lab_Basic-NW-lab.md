@@ -386,7 +386,8 @@ https://note.com/sokada_itnet/n/n8f08796cf9d1<br>
 https://note.com/sokada_itnet/n/n79336df9ab7a<br>
 #### native vlan の設定方法<br>
 https://note.com/sokada_itnet/n/n2f7b70aa9433<br>
-
+#### SVI の設定方法<br>
+https://note.com/sokada_itnet/n/n14cc41dad4d6<br>
 
 # CDP/LLDP<br>
 ### CDP/LLDPを使用して対向のSWの情報を確認してみましょう！<br>
