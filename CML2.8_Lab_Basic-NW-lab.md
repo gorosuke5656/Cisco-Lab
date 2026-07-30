@@ -33,11 +33,17 @@ https://note.com/sokada_itnet/n/n65a00bde7a63<br>
 
 <img width="1387" height="726" alt="image" src="https://github.com/user-attachments/assets/576cc425-5fb0-420d-a3b4-82e10d3a54bc" />
 
+
 #### static route の設定方法<br>
 https://note.com/sokada_itnet/n/n74821b6370ce<br>
 #### defaule route の設定方法<br>
-https://note.com/sokada_itnet/n/n6c3fc42d83ff
-
+https://note.com/sokada_itnet/n/n6c3fc42d83ffb<br>
+#### Longest match に関して<br>
+https://note.com/sokada_itnet/n/n1e6d93ec8ed1<br>
+#### ECMP に関して<br>
+https://note.com/sokada_itnet/n/n11c071203316<br>
+#### ADに関して<br>
+https://note.com/sokada_itnet/n/n70a36a11730f
   
 
 # 2 　Basic-NW-labで取り上げるテーマ<br>
