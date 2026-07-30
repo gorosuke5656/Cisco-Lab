@@ -1,7 +1,7 @@
 # CML2.8_Lab_Basic-NW-lab<br>
-### LastUpdate:2026/07/18<br>
+### LastUpdate:2026/07/31<br>
 
-### 参考<br>
+### 参考資料<br>
 ### IOS/IOS-XE の基本操作<br> 
 https://note.com/sokada_itnet/n/n65a00bde7a63<br>
 
@@ -33,7 +33,7 @@ https://note.com/sokada_itnet/n/n65a00bde7a63<br>
 
 <img width="1387" height="726" alt="image" src="https://github.com/user-attachments/assets/576cc425-5fb0-420d-a3b4-82e10d3a54bc" />
 
-
+### 参考資料<br>
 #### static route の設定方法<br>
 https://note.com/sokada_itnet/n/n74821b6370ce<br>
 #### defaule route の設定方法<br>
