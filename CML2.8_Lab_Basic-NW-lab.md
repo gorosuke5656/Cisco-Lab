@@ -377,6 +377,17 @@ https://note.com/sokada_itnet/n/n70a36a11730f
 
 
 # 4　【SWネットワーク実習】<br>
+### 参考資料<br>
+#### スイッチの基礎<br>
+
+#### VLANの基礎<br>
+https://note.com/sokada_itnet/n/n8f08796cf9d1<br>
+#### trunk port の設定方法<br>
+https://note.com/sokada_itnet/n/n79336df9ab7a<br>
+#### native vlan の設定方法<br>
+https://note.com/sokada_itnet/n/n2f7b70aa9433<br>
+
+
 # CDP/LLDP<br>
 ### CDP/LLDPを使用して対向のSWの情報を確認してみましょう！<br>
 <img width="1392" height="674" alt="image" src="https://github.com/user-attachments/assets/45ef4ade-6e7c-4eaf-a7ca-d5602eb02772" />
