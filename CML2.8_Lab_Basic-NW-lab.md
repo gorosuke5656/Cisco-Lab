@@ -35,6 +35,8 @@ https://note.com/sokada_itnet/n/n65a00bde7a63<br>
 
 #### static route の設定方法<br>
 https://note.com/sokada_itnet/n/n74821b6370ce<br>
+#### defaule route の設定方法<br>
+https://note.com/sokada_itnet/n/n6c3fc42d83ff
 
   
 
