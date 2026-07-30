@@ -2,6 +2,7 @@
 ### LastUpdate:2026/07/18<br>
 
 ### 参考<br>
+### IOS/IOS-XE の基本操作<br> 
 https://note.com/sokada_itnet/n/n65a00bde7a63<br>
 
 # １　Basic-NW-labの実習構成<br>
