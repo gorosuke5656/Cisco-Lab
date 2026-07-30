@@ -33,6 +33,9 @@ https://note.com/sokada_itnet/n/n65a00bde7a63<br>
 
 <img width="1387" height="726" alt="image" src="https://github.com/user-attachments/assets/576cc425-5fb0-420d-a3b4-82e10d3a54bc" />
 
+#### static route の設定方法<br>
+https://note.com/sokada_itnet/n/n74821b6370ce<br>
+
   
 
 # 2 　Basic-NW-labで取り上げるテーマ<br>
