@@ -1,6 +1,9 @@
 # CML2.8_Lab_Basic-NW-lab<br>
 ### LastUpdate:2026/07/18<br>
 
+### 参考<br>
+https://note.com/sokada_itnet/n/n65a00bde7a63<br>
+
 # １　Basic-NW-labの実習構成<br>
 ## 今回の演習は以下の３つの構成で実施します<br>
 ## 構成はルーター３台、スイッチ２台です<br>
