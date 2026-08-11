@@ -283,7 +283,8 @@ https://note.com/sokada_itnet/n/n70a36a11730f
 ##### 複合メトリックを使用した経路制御における回線のバックアップ<br>
 
 ###### （今回の構成）プライマリ経路に障害を発生させ、バックアップ経路に切り替えをします<br>
-<img width="1390" height="623" alt="image" src="https://github.com/user-attachments/assets/f4799ddf-a30e-49b2-ad84-bce285c87b8b" />
+<img width="1392" height="619" alt="image" src="https://github.com/user-attachments/assets/0ca6f150-7663-49e4-af11-5e055647f464" />
+
 
 
 ###### 実施手順<br>
