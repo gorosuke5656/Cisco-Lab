@@ -327,9 +327,6 @@ https://note.com/sokada_itnet/n/n70a36a11730f
 
 <img width="1388" height="665" alt="image" src="https://github.com/user-attachments/assets/bc4887e5-6e45-4d95-a14f-e61e130cef17" />
 
-##### 【オプション課題：Stack in Activeが発生するネットワーク構成と対策】<br>
-<img width="1333" height="588" alt="image" src="https://github.com/user-attachments/assets/f18a79ef-84be-478e-af23-554c71c0783b" />
-
 # Multu-routing<br>
 
 # HSRP<br>
@@ -579,7 +576,7 @@ https://note.com/sokada_itnet/n/n14cc41dad4d6<br>
 
 # Mirror-config
 
-# Catalyst2960-Password-recover<br>
+# Catalyst2960-Password-recovery<br>
 ## Catalystのパスワードリカバリーについて<br>
 https://www.infraexpert.com/study/ciscoios13.html
 ## Catalyst2960のリカバリー例<br>
