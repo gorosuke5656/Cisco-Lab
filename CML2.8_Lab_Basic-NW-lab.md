@@ -582,6 +582,21 @@ https://note.com/sokada_itnet/n/n14cc41dad4d6<br>
 # Catalyst2960-Password-recover
 
 # Cisco-Device-Disable-name-resolution
+<img width="1392" height="690" alt="image" src="https://github.com/user-attachments/assets/d6a4f94a-8332-4704-9db5-3b5ecd248eae" />
+
+<img width="1355" height="680" alt="image" src="https://github.com/user-attachments/assets/2cc89411-d2a2-4b24-a1b0-ffbc3e730f5d" />
+
+<img width="1393" height="617" alt="image" src="https://github.com/user-attachments/assets/606433a4-9cfc-4cfd-942a-54e0c8dbd555" />
+
+### 参考<br>
+https://www.it-enjoy.com/entry/cisco-command-typo-countermeasure<br>
+
+
+
+
+
+
+
 
 
 
