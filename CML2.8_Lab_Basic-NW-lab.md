@@ -579,7 +579,11 @@ https://note.com/sokada_itnet/n/n14cc41dad4d6<br>
 
 # Mirror-config
 
-# Catalyst2960-Password-recover
+# Catalyst2960-Password-recover<br>
+## Catalystのパスワードリカバリーについて<br>
+https://www.infraexpert.com/study/ciscoios13.html
+## Catalyst2960のリカバリー例<br>
+https://github.com/gorosuke5656/Cisco-Lab/blob/main/conifg/c2960-password-recovery.cfg<br>
 
 # Cisco-Device-Disable-name-resolution
 <img width="1392" height="690" alt="image" src="https://github.com/user-attachments/assets/d6a4f94a-8332-4704-9db5-3b5ecd248eae" />
