@@ -581,6 +581,8 @@ https://note.com/sokada_itnet/n/n14cc41dad4d6<br>
 
 # Catalyst2960-Password-recover
 
+# Cisco-Device-Disable-name-resolution
+
 
 
 
