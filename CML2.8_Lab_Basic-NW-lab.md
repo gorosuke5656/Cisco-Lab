@@ -1,5 +1,5 @@
 # CML2.8_Lab_Basic-NW-lab<br>
-### LastUpdate:2026/07/31<br>
+### LastUpdate:2026/08/12<br>
 
 ### 参考資料<br>
 ### IOS/IOS-XE の基本操作<br> 
@@ -255,8 +255,11 @@ https://note.com/sokada_itnet/n/n70a36a11730f
 
 
 #### 複合メトリックを使用した経路制御<br>
-##### 構成は以下のようになります<br>
-<img width="1592" height="776" alt="image" src="https://github.com/user-attachments/assets/f2e52af3-ddd6-4d6e-b63c-b9057c10dc94" />
+##### 構成は以下のようになります(構成図）<br>
+<img width="1392" height="625" alt="image" src="https://github.com/user-attachments/assets/716c254e-ac38-4d43-b9e9-47c1009a994d" />
+
+###### 構成のポイント　delayを使用して経路制御を実施します(EIGRPプライマリ:delay 10, EIGRPセカンダリ：delay 100)<br>
+
 
 ##### 上記の構成で以下の内容を実施して確認します<br>
 <img width="1584" height="734" alt="image" src="https://github.com/user-attachments/assets/b4b9827c-5eb0-4c06-ae0d-e6a5c71ba8a9" />
