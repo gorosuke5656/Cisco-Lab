@@ -595,6 +595,7 @@ https://github.com/gorosuke5656/Cisco-Lab/blob/main/conifg/c2960-password-recove
 
 ### 参考<br>
 https://www.it-enjoy.com/entry/cisco-command-typo-countermeasure<br>
+https://community.cisco.com/t5/switching/no-ip-domain-lookup/td-p/2705168<br>
 
 
 
