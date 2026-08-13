@@ -82,6 +82,9 @@ https://note.com/sokada_itnet/n/n70a36a11730f
 ### (4) OPENコマンドで該当装置に接続<br>
 <img width="1168" height="538" alt="image" src="https://github.com/user-attachments/assets/3a4aa78d-ca67-41f4-acc6-1c066c705df6" />
 
+### (5) 該当装置からコンソールサーバへ戻る場合<br>
+<img width="1382" height="662" alt="image" src="https://github.com/user-attachments/assets/5e4cc381-3a4e-4672-8d98-1d962b8f9fb3" />
+
 
 # 4　【ルーターネットワーク実習】<br>
 ## RIP-Routing<br>
