@@ -308,9 +308,11 @@ https://note.com/sokada_itnet/n/n70a36a11730f
 ###### SW1からのPING及びtraceroute確認<br>
  <img width="1376" height="596" alt="image" src="https://github.com/user-attachments/assets/8a70fc54-a080-465e-b204-c3a5b7dd137f" />
 
-##### （参考）EIGRPの概要<br>
+##### （参考）EIGRPについて<br>
+###### 参考サイト EIGRP技術メモ　https://qiita.com/quinaeng/items/efbfcd2cd85913ba70d0<br>
+###### EIGRPの概要<br>
 <img width="1392" height="649" alt="image" src="https://github.com/user-attachments/assets/eb05e5be-4325-40b3-8de5-22173fb93c6f" />
-
+###### EIGRPで使用される用語<BR>
 <img width="1388" height="677" alt="image" src="https://github.com/user-attachments/assets/04e7da59-5e06-4a28-8d2d-7bd648725039" />
 
 ###### （参考）EIGRPで使用される用語<br>
