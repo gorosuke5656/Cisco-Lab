@@ -34,3 +34,6 @@
 #### (5) CFB<br>
 ### 5 コールルーティングとCSS<br>
 ### 6 環境構成例<br>
+### 7 参考資料<br>
+Webex CallingとCUCMのハイブリッド接続をしてみた<br>
+https://www.netone.co.jp/media/detail/20230314-01/
