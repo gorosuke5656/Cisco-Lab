@@ -4,7 +4,7 @@
 ### 2 CUCM構成要素<br>
 ### 3 CUCMで使用する音声プロトコル<br>
 #### 1 CUCMとIP-Phoneのシグナリングプロトコル
-　 以下の２つがあります。
+　 以下の２つがあります<br>
 　　 〇 SCCP（Skinny Client Control Protocol）<br>
 　　　　　Ciscoシステムズオリジナルのシグナリングプロトコル（CUCMに対する負荷が軽いのが特徴)<br>
 　　　〇 SIP（Session Initiatil Protocol）<br>
