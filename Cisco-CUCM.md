@@ -10,7 +10,8 @@
 #### (4) MOH（Music on Hold）<br>
 
 #### (5) TFTP<br>
-  IP-Phoneに対してコンフィグレーション及びファームウェアを提供するサービス（TFTPサービスを実行するCUCMをTFTPサーバと呼びます）<br>
+  IP-Phoneに対してコンフィグレーション及びファームウェアを提供するサービス<br>
+   【TFTPサービスを実行するCUCMをTFTPサーバと呼びます】<br>
   DHCPサービスでは Option ID=150 でTFTPサーバのIPアドレスを登録します<br>
 　　　　　　　　　　　　⇒　サーバーを複数登録できるため、TFTPサービスの2重化、負荷分散が可能<br>
 
