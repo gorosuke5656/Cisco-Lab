@@ -8,6 +8,17 @@
 #### (2) Device Pool<br>
 #### (3) CP<br>
 #### (4) MOH（Music on Hold）<br>
+
+#### (5) TFTP<br>
+  IP-Phoneに対してコンフィグレーション及びファームウェアを提供するサービス（TFTPサービスを実行するCUCMをTFTPサーバと呼びます）<br>
+  DHCPサービスでは Option ID=150 でTFTPサーバのIPアドレスを登録します<br>
+　　　　　　　　　　　　⇒　サーバーを複数登録できるため、TFTPサービスの2重化、負荷分散が可能<br>
+
+##### IP-Phoneにおける起動シーケンスについて<br>
+###### 全体構成<br>
+<img width="1383" height="703" alt="image" src="https://github.com/user-attachments/assets/af64e37a-e0c5-4f4d-ae42-612351b58176" />
+
+
 #### (5) CFB<br>
 ### 5 コールルーティングとCSS<br>
 ### 6 環境構成例<br>
