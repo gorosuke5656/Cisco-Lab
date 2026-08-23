@@ -7,7 +7,7 @@
 　 以下の２つがあります<br>
 　　 〇 SCCP（Skinny Client Control Protocol）<br>
 　　　　　Ciscoシステムズオリジナルのシグナリングプロトコル（CUCMに対する負荷が軽いのが特徴)<br>
-     参考：https://www.voip-info.jp/index.php/Skinny_Call_Control_Protocol<br>
+            参考：https://www.voip-info.jp/index.php/Skinny_Call_Control_Protocol<br>
      
 　　　〇 SIP（Session Initiatil Protocol）<br>
 　　　　　業界標準の呼制御プロトコル(CUCMVer5以降のサポート) <br>
