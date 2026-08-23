@@ -14,6 +14,9 @@
 #### 2 CUCMとVoipｰGateWayのシグナリングプロトコル
 　　　H323/MGCP/SIPが利用可能（現在のCUCMデザインガイドではMGCPが推奨プロトコル）<br>
 
+   参考：MGCPゲートウェイの設定およびトラブルシューティング<br>
+   https://www.cisco.com/c/ja_jp/support/docs/voice/media-gateway-control-protocol-mgcp/214635-configure-and-troubleshoot-mgcp-gateways.html<br>
+
 ### 4 CUCMを理解するための用語及び構成要素<br>
 #### (1) CUCMクラスタ<br>
 #### (2) Device Pool<br>
