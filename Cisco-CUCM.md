@@ -36,4 +36,6 @@
 ### 6 環境構成例<br>
 ### 7 参考資料<br>
 Webex CallingとCUCMのハイブリッド接続をしてみた<br>
-https://www.netone.co.jp/media/detail/20230314-01/
+    https://www.netone.co.jp/media/detail/20230314-01/<br>
+Cisco IP電話サービス 導入事例<br>
+https://network.nttdata-luweave.com/case/2253/<br>
