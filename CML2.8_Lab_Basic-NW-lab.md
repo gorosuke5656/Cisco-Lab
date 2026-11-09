@@ -44,6 +44,9 @@ https://note.com/sokada_itnet/n/n1e6d93ec8ed1<br>
 https://note.com/sokada_itnet/n/n11c071203316<br>
 #### ADに関して<br>
 https://note.com/sokada_itnet/n/n70a36a11730f
+
+#### 技術を楽しもう
+https://www.it-enjoy.com/
   
 
 # 2 　Basic-NW-labで取り上げるテーマ<br>
